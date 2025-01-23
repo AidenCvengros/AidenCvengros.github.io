@@ -1,5 +1,10 @@
 {
 	"gradients":[
+  {
+		"name":"Green Beach",
+		"color1":"#02aab0",
+		"color2":"#00cdac"
+	},
 	{
 		"name":"Purple White",
 		"color1":"#ba5370",
@@ -74,11 +79,6 @@
 		"name":"Pale Wood",
 		"color1":"#d6ae7b",
 		"color2":"#eacda3"
-	},
-	{
-		"name":"Green Beach",
-		"color1":"#02aab0",
-		"color2":"#00cdac"
 	},
 	{
 		"name":"Sha La La",
