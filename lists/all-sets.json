@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "XNB", "set_name": "Xenoblade Chronicles Custom Magic: the Gathering Set", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "XNB",
+            "set_name": "Xenoblade Chronicles Custom Magic: the Gathering Set",
+            "formats": "Limited, Constructed"
+        }
+    ]
+}

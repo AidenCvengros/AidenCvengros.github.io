@@ -1,0 +1,3670 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Rex, Master Driver",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Driver",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/0.png"
+			}
+		},
+		{
+			"name": "Addam, Torna's Champion",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/1.png"
+			}
+		},
+		{
+			"name": "Argentum Pilot",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Nopon Pilot",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/2.png"
+			}
+		},
+		{
+			"name": "Bitball Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Blade",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/3.png"
+			}
+		},
+		{
+			"name": "Blade Art",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/4.png"
+			}
+		},
+		{
+			"name": "Cheerful Songbearer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Blade Bear Performer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/5.png"
+			}
+		},
+		{
+			"name": "Brilliant Ascension",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/6.png"
+			}
+		},
+		{
+			"name": "Clumsy Driverpon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nopon Driver",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/7.png"
+			}
+		},
+		{
+			"name": "Counterattack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/8.png"
+			}
+		},
+		{
+			"name": "Divine Archsage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Nopon Spirit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/9.png"
+			}
+		},
+		{
+			"name": "Energetic Zapmeister",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Blade Warrior",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/10.png"
+			}
+		},
+		{
+			"name": "Feed the Ferronis",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/11.png"
+			}
+		},
+		{
+			"name": "Ferronis Skirmish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Siege",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/12_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/12_front.png"
+			}
+		},
+		{
+			"name": "Colony Commander",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human High Entia Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/13.png"
+			}
+		},
+		{
+			"name": "Kino, Aspiring Heropon",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Nopon",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/14.png"
+			}
+		},
+		{
+			"name": "Lead the Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/15.png"
+			}
+		},
+		{
+			"name": "Masterpon of the Seven",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Nopon Artificer",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/16.png"
+			}
+		},
+		{
+			"name": "Melia, Royal Summoner",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — High Entia Human Noble",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/17.png"
+			}
+		},
+		{
+			"name": "Inscrutible Thaumaturge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Indoline Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/18.png"
+			}
+		},
+		{
+			"name": "Off-Seer Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Bard Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/19.png"
+			}
+		},
+		{
+			"name": "Pandoria, Big Bang Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Blade Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/20.png"
+			}
+		},
+		{
+			"name": "Pollen Workerpon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nopon Artificer",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/21.png"
+			}
+		},
+		{
+			"name": "Hopeful Mediator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human Artificer",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/22.png"
+			}
+		},
+		{
+			"name": "Protective Mamapon",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Nopon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/23.png"
+			}
+		},
+		{
+			"name": "Archbard Tirkin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Bard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/24.png"
+			}
+		},
+		{
+			"name": "Ray of Punishment",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/25.png"
+			}
+		},
+		{
+			"name": "Sharla, Colony 6 Medic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/26.png"
+			}
+		},
+		{
+			"name": "Siren, Mythra's Artifice",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Artifact Creature — Angel Construct",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/27.png"
+			}
+		},
+		{
+			"name": "Soul Voice Aura",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/28.png"
+			}
+		},
+		{
+			"name": "Stalwart Shield Hammer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Blade Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/29.png"
+			}
+		},
+		{
+			"name": "Lifepod Stasis",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/30.png"
+			}
+		},
+		{
+			"name": "Nopon Revelry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/31.png"
+			}
+		},
+		{
+			"name": "Tantalese Cannon Blade",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Blade Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/32.png"
+			}
+		},
+		{
+			"name": "Transport Pterix",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dinosaur Bird",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/33.png"
+			}
+		},
+		{
+			"name": "A Life Sent On",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/34.png"
+			}
+		},
+		{
+			"name": "Alrest Historian",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Blade Shaman",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/35.png"
+			}
+		},
+		{
+			"name": "Argentum Entrepreneur",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Nopon Advisor",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/36.png"
+			}
+		},
+		{
+			"name": "Brainjack",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/37.png"
+			}
+		},
+		{
+			"name": "Brighid, Jewel of the Empire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Blade Noble",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/38.png"
+			}
+		},
+		{
+			"name": "Party Gauge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/39.png"
+			}
+		},
+		{
+			"name": "Proficient Outfitter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Human Artificer Soldier",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/40.png"
+			}
+		},
+		{
+			"name": "Cloud Sea King Ken",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Creature — Giant Squid",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/41.png"
+			}
+		},
+		{
+			"name": "Agnian Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/42.png"
+			}
+		},
+		{
+			"name": "Decadent Heiress",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Blade Noble",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/43.png"
+			}
+		},
+		{
+			"name": "Defensive ONION",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Mechon",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/44.png"
+			}
+		},
+		{
+			"name": "Dromarch, Nia's Liege",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Cat Blade",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/45.png"
+			}
+		},
+		{
+			"name": "Witness the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/46.png"
+			}
+		},
+		{
+			"name": "Ether Net",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/47.png"
+			}
+		},
+		{
+			"name": "Face Conversion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/48.png"
+			}
+		},
+		{
+			"name": "Final Cross",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/49.png"
+			}
+		},
+		{
+			"name": "Industrious Megalancer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Blade",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/50.png"
+			}
+		},
+		{
+			"name": "Diversion Tactics",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/51.png"
+			}
+		},
+		{
+			"name": "Leftherian Seal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/52.png"
+			}
+		},
+		{
+			"name": "Kevesi Assassin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Machina Assassin",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/53.png"
+			}
+		},
+		{
+			"name": "Meyneth, Soul of Mechonis",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Planeswalker — Galea",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/54.png"
+			}
+		},
+		{
+			"name": "Military Archelon",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Titan Soldier",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/55.png"
+			}
+		},
+		{
+			"name": "Nia's Care",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/56.png"
+			}
+		},
+		{
+			"name": "Nikol, Variable Machinist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/57.png"
+			}
+		},
+		{
+			"name": "Curator Excavator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/58.png"
+			}
+		},
+		{
+			"name": "Iris Network",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/59.png"
+			}
+		},
+		{
+			"name": "Rex, Apt Salvager",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Artificer Driver",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/60.png"
+			}
+		},
+		{
+			"name": "Shredder Quo",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/61.png"
+			}
+		},
+		{
+			"name": "Soul Voice Overdrive",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/62.png"
+			}
+		},
+		{
+			"name": "Shackle Arts",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/63.png"
+			}
+		},
+		{
+			"name": "Struggle at Spirit Crucible Elpys",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Battle — Siege",
+			"collector_number": "66",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/64_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/64_front.png"
+			}
+		},
+		{
+			"name": "The Apocrypha Generator",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/65.png"
+			}
+		},
+		{
+			"name": "Trickster Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Blade Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/66.png"
+			}
+		},
+		{
+			"name": "Urayan Tactician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Blade Advisor",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/67.png"
+			}
+		},
+		{
+			"name": "Winds of Time",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/68.png"
+			}
+		},
+		{
+			"name": "Annihilation Event",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/69.png"
+			}
+		},
+		{
+			"name": "Arachno Pod",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Spider Construct",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/70.png"
+			}
+		},
+		{
+			"name": "Undying Malice",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/71.png"
+			}
+		},
+		{
+			"name": "Bionis Slash",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/72.png"
+			}
+		},
+		{
+			"name": "Black Tar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/73.png"
+			}
+		},
+		{
+			"name": "Conniving Smugglerpon",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nopon Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/74.png"
+			}
+		},
+		{
+			"name": "Cull the Golds",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/75.png"
+			}
+		},
+		{
+			"name": "Daredevil Champion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/76.png"
+			}
+		},
+		{
+			"name": "Violent Blade",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Blade Berserker",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/77.png"
+			}
+		},
+		{
+			"name": "Gigas Telethia",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Telethia",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/78.png"
+			}
+		},
+		{
+			"name": "Inferno Skydon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/79.png"
+			}
+		},
+		{
+			"name": "M32 Scout Unit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Mechon Scout",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/80.png"
+			}
+		},
+		{
+			"name": "Killing Claw",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/81.png"
+			}
+		},
+		{
+			"name": "Lorithia's Havres",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/82.png"
+			}
+		},
+		{
+			"name": "M108 Spade",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Mechon",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/83.png"
+			}
+		},
+		{
+			"name": "Malos, Aegis of Destruction",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Blade God",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/84.png"
+			}
+		},
+		{
+			"name": "Mass-Produced Face",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Mechon",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/85.png"
+			}
+		},
+		{
+			"name": "Metal Face",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Artifact Creature — Mechon",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/86.png"
+			}
+		},
+		{
+			"name": "Milsaadi Assassin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Alien Assassin",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/87.png"
+			}
+		},
+		{
+			"name": "Flame Clock",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/88.png"
+			}
+		},
+		{
+			"name": "To the Queen You Return",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/89.png"
+			}
+		},
+		{
+			"name": "Moebius D & J",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Moebius",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/90.png"
+			}
+		},
+		{
+			"name": "Offensive FOUND",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Mechon",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/91.png"
+			}
+		},
+		{
+			"name": "Reconstruction Formula",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/92.png"
+			}
+		},
+		{
+			"name": "Reckless Blast Fencer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/93.png"
+			}
+		},
+		{
+			"name": "Reclaimer Verus",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/94.png"
+			}
+		},
+		{
+			"name": "Sadistic Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/95.png"
+			}
+		},
+		{
+			"name": "Sani Telethia",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Telethia",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/96.png"
+			}
+		},
+		{
+			"name": "Siege on the White Whale",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Battle — Siege",
+			"collector_number": "98",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/97_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/97_front.png"
+			}
+		},
+		{
+			"name": "Soul Voice Debuff",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/98.png"
+			}
+		},
+		{
+			"name": "The Lonely Path",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/99.png"
+			}
+		},
+		{
+			"name": "Ares Prime",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/100.png"
+			}
+		},
+		{
+			"name": "Vita, Vessel of the Great One",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/101.png"
+			}
+		},
+		{
+			"name": "Zaruboggan Devoltanizer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Alien Artificer",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/102.png"
+			}
+		},
+		{
+			"name": "Zero Blade",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/103.png"
+			}
+		},
+		{
+			"name": "A, Alpha's Conscience",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Blade God",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/104.png"
+			}
+		},
+		{
+			"name": "Ace Partisan Eagle",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/105.png"
+			}
+		},
+		{
+			"name": "Ardainian Royal Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/106.png"
+			}
+		},
+		{
+			"name": "Azure Strike",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/107.png"
+			}
+		},
+		{
+			"name": "Battle for Sword Valley",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "109",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/108_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/108_front.png"
+			}
+		},
+		{
+			"name": "Patient Stalker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cat Archer",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/109.png"
+			}
+		},
+		{
+			"name": "Brawny Gogol",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Ape",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/110.png"
+			}
+		},
+		{
+			"name": "Burning Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/111.png"
+			}
+		},
+		{
+			"name": "Consul's Directives",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/112.png"
+			}
+		},
+		{
+			"name": "Mikhail's Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/113.png"
+			}
+		},
+		{
+			"name": "Exciteable Signifier",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Blade Soldier",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/114.png"
+			}
+		},
+		{
+			"name": "Fiora, Reckless Companion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/115.png"
+			}
+		},
+		{
+			"name": "Fists of the End",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/116.png"
+			}
+		},
+		{
+			"name": "Glimmer, Prolific Kitharode",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Blade Soldier",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/117.png"
+			}
+		},
+		{
+			"name": "Greataxe Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Blade Warrior",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/118.png"
+			}
+		},
+		{
+			"name": "Bionite Zealot",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — High Entia Assassin",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/119.png"
+			}
+		},
+		{
+			"name": "Kevesi Colony",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/120.png"
+			}
+		},
+		{
+			"name": "Lin, BLADE Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact Creature — Human Soldier",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/121.png"
+			}
+		},
+		{
+			"name": "Lora, Pioneer Driver",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Driver",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/122.png"
+			}
+		},
+		{
+			"name": "Lucky Seven",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/123.png"
+			}
+		},
+		{
+			"name": "Mythra's Foresight",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/124.png"
+			}
+		},
+		{
+			"name": "Tetsudo Levnis",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/125.png"
+			}
+		},
+		{
+			"name": "Mobile Artillery",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/126.png"
+			}
+		},
+		{
+			"name": "Mòrag, the Flamebringer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Noble Driver",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/127.png"
+			}
+		},
+		{
+			"name": "Power Spike",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/128.png"
+			}
+		},
+		{
+			"name": "Autonomous Armadillo",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/129.png"
+			}
+		},
+		{
+			"name": "Prospectors Amdusias",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/130.png"
+			}
+		},
+		{
+			"name": "Big Score",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/131.png"
+			}
+		},
+		{
+			"name": "Resolute Harriers",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/132.png"
+			}
+		},
+		{
+			"name": "Soul Voice Power",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/133.png"
+			}
+		},
+		{
+			"name": "Starstruck Firecracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Blade",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/134.png"
+			}
+		},
+		{
+			"name": "Iris Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/135.png"
+			}
+		},
+		{
+			"name": "Winged Viper Prodigy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Human Pilot Soldier",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/136.png"
+			}
+		},
+		{
+			"name": "You Will Know Our Names",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/137.png"
+			}
+		},
+		{
+			"name": "Alcamoth Lookout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — High Entia Knight",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/138.png"
+			}
+		},
+		{
+			"name": "Ambitious Engineerpon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nopon",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/139.png"
+			}
+		},
+		{
+			"name": "Bana, Argentum Kingpin",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Legendary Creature — Nopon Noble",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/140.png"
+			}
+		},
+		{
+			"name": "Bitey Bitey",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/141.png"
+			}
+		},
+		{
+			"name": "Ether Channel",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/142.png"
+			}
+		},
+		{
+			"name": "Coiling Aspar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/143.png"
+			}
+		},
+		{
+			"name": "Defend the Caravan!",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/144.png"
+			}
+		},
+		{
+			"name": "Defense of Gran Dell",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "148",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/145_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/145_front.png"
+			}
+		},
+		{
+			"name": "Deimos Sauros",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/146.png"
+			}
+		},
+		{
+			"name": "Dickson, Enigmatic Nomad",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Giant Soldier",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/147.png"
+			}
+		},
+		{
+			"name": "Drill Biter",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/148.png"
+			}
+		},
+		{
+			"name": "Gluttonous Blade",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Blade",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/149.png"
+			}
+		},
+		{
+			"name": "Lao, Avenger of Earth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Artifact Creature — Human Soldier",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/150.png"
+			}
+		},
+		{
+			"name": "Metal Blast",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/151.png"
+			}
+		},
+		{
+			"name": "Mia Pippito",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ferret",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/152.png"
+			}
+		},
+		{
+			"name": "Monado Enchant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/153.png"
+			}
+		},
+		{
+			"name": "Nene, Reliable Sister",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Nopon Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/154.png"
+			}
+		},
+		{
+			"name": "Overeager Curator",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Human Scout",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/155.png"
+			}
+		},
+		{
+			"name": "Survivalist Colony",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/156.png"
+			}
+		},
+		{
+			"name": "Plucky Small-Frypon",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nopon",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/157.png"
+			}
+		},
+		{
+			"name": "Search for the Lifehold",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/158.png"
+			}
+		},
+		{
+			"name": "Shulk and Fiora",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/159.png"
+			}
+		},
+		{
+			"name": "Soul Voice Melee",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/160.png"
+			}
+		},
+		{
+			"name": "Traders Ferronis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/161.png"
+			}
+		},
+		{
+			"name": "Immovable Gonzalez",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Ape",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/162.png"
+			}
+		},
+		{
+			"name": "The Conduit War",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/163.png"
+			}
+		},
+		{
+			"name": "Tirkin Archer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bird Archer",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/164.png"
+			}
+		},
+		{
+			"name": "Tora, Makeshift Driverpon",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Nopon Artificer",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/165.png"
+			}
+		},
+		{
+			"name": "Leone Telethia",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Telethia",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/166.png"
+			}
+		},
+		{
+			"name": "Union Strike",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/167.png"
+			}
+		},
+		{
+			"name": "Frontier Chieftan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Nopon Noble",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/168.png"
+			}
+		},
+		{
+			"name": "Visions of Morytha",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/169.png"
+			}
+		},
+		{
+			"name": "Phonex Interpreter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Blade Druid",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/170.png"
+			}
+		},
+		{
+			"name": "Zeke, Bringer of Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Human Driver",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/171.png"
+			}
+		},
+		{
+			"name": "Pyra, Embers of the Aegis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Blade God",
+			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/172_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/172_front.png"
+			}
+		},
+		{
+			"name": "Alvis, The Conduit's Will",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Alvis",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/173.png"
+			}
+		},
+		{
+			"name": "Amalthus, Blade Eater",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Indoline Cleric",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/174.png"
+			}
+		},
+		{
+			"name": "Building Origin",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/175.png"
+			}
+		},
+		{
+			"name": "Egil, Leader of Mechonis",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{B}{B}",
+			"type": "Legendary Artifact Creature — Machina",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/176.png"
+			}
+		},
+		{
+			"name": "Elma, Full Metal Jaguar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Human Soldier",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/177.png"
+			}
+		},
+		{
+			"name": "Ether Pump",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/178.png"
+			}
+		},
+		{
+			"name": "Eunie, Ouroboros Medic",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — High Entia Soldier",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/179.png"
+			}
+		},
+		{
+			"name": "Fan la Norne, Devoted Priest",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Blade Cleric",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/180.png"
+			}
+		},
+		{
+			"name": "Frontier Commanderpon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Nopon Soldier",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/181.png"
+			}
+		},
+		{
+			"name": "Gramps, Titan Mentor",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — Titan",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/182.png"
+			}
+		},
+		{
+			"name": "Harrier Missile Skell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/183.png"
+			}
+		},
+		{
+			"name": "Homecoming",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/184.png"
+			}
+		},
+		{
+			"name": "Hugo, Ardainian Emperor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Noble Driver",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/185.png"
+			}
+		},
+		{
+			"name": "Interceptor Lailah",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/186.png"
+			}
+		},
+		{
+			"name": "Jin, Avenger of Torna",
+			"rarity": "rare",
+			"mana_cost": "{10}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Blade Samurai",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/187.png"
+			}
+		},
+		{
+			"name": "Unlucky Merchantpon",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Nopon",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/188.png"
+			}
+		},
+		{
+			"name": "Lanz, Ouroboros Defender",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Artifact Creature — Machina Soldier",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/189.png"
+			}
+		},
+		{
+			"name": "Argentum Chairman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Nopon Advisor",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/190.png"
+			}
+		},
+		{
+			"name": "M, Moebius Defector",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Moebius",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/191.png"
+			}
+		},
+		{
+			"name": "M71 Flex Unit",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Artifact Creature — Mechon Scout",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/192.png"
+			}
+		},
+		{
+			"name": "Matthew, Ouroboros Brawler",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/193.png"
+			}
+		},
+		{
+			"name": "Mikhail, Tornan Romantic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Blade",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/194.png"
+			}
+		},
+		{
+			"name": "Mio, Ouroboros Zephyr",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Blade Soldier",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/195.png"
+			}
+		},
+		{
+			"name": "Monica, City Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/196.png"
+			}
+		},
+		{
+			"name": "N, Moebius Devoted",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Moebius",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/197.png"
+			}
+		},
+		{
+			"name": "Nia, Awakened Flower",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Cat Blade",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/198.png"
+			}
+		},
+		{
+			"name": "Noah, Ouroboros Off-Seer",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/199.png"
+			}
+		},
+		{
+			"name": "Pneuma, Life Aegis",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Blade God",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/200.png"
+			}
+		},
+		{
+			"name": "Poppi a, Artificial Masterpiece",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Blade Robot",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/201.png"
+			}
+		},
+		{
+			"name": "Psycorruptor Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/202.png"
+			}
+		},
+		{
+			"name": "Puera Telethia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Telethia Beast",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/203.png"
+			}
+		},
+		{
+			"name": "Reyn, Stalwart Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/204.png"
+			}
+		},
+		{
+			"name": "Riki, Legendary Heropon",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Nopon",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/205.png"
+			}
+		},
+		{
+			"name": "Riku & Manana, Yumsmiths",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Nopon",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/206.png"
+			}
+		},
+		{
+			"name": "Sena, Ouroboros Ogre",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Blade Soldier",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/207.png"
+			}
+		},
+		{
+			"name": "Shulk, Heir to the Monado",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human God",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/208.png"
+			}
+		},
+		{
+			"name": "Solidum Telethia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{G}{G}",
+			"type": "Creature — Telethia",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/209.png"
+			}
+		},
+		{
+			"name": "Taion, Ouroboros Tactician",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Blade Advisor",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/210.png"
+			}
+		},
+		{
+			"name": "Telethia, the Endbringer",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}{G}",
+			"type": "Legendary Creature — Telethia",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/211.png"
+			}
+		},
+		{
+			"name": "The Aegis War",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/212.png"
+			}
+		},
+		{
+			"name": "The Endless Now",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/213.png"
+			}
+		},
+		{
+			"name": "Trick Lock",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/214.png"
+			}
+		},
+		{
+			"name": "Nimble Hraesvelg",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/215.png"
+			}
+		},
+		{
+			"name": "Vandham, Mercenary Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Driver",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/216.png"
+			}
+		},
+		{
+			"name": "Vasara, Wrothian's Pride",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/217.png"
+			}
+		},
+		{
+			"name": "Z, Origin Usurper",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Avatar God",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/218.png"
+			}
+		},
+		{
+			"name": "Zanza, the Divine",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{G}{G}",
+			"type": "Legendary Planeswalker — Klaus",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/219.png"
+			}
+		},
+		{
+			"name": "Agniratha Data Center",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/220.png"
+			}
+		},
+		{
+			"name": "Anchor Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/221.png"
+			}
+		},
+		{
+			"name": "Sword of Legendaryness",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/222.png"
+			}
+		},
+		{
+			"name": "Blade Bot",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Blade Construct",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/223.png"
+			}
+		},
+		{
+			"name": "Centuris Levnis",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/224.png"
+			}
+		},
+		{
+			"name": "Cloud Sea Compass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/225.png"
+			}
+		},
+		{
+			"name": "Adventurer's Airship",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/226.png"
+			}
+		},
+		{
+			"name": "Ether Furnace",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/227.png"
+			}
+		},
+		{
+			"name": "Giga Rosa Prototype",
+			"rarity": "common",
+			"mana_cost": "{9}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/228.png"
+			}
+		},
+		{
+			"name": "Junk Sword",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/229.png"
+			}
+		},
+		{
+			"name": "M63 Harvester Unit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Mechon",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/230.png"
+			}
+		},
+		{
+			"name": "Mastema Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/231.png"
+			}
+		},
+		{
+			"name": "Nero Andos",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/232.png"
+			}
+		},
+		{
+			"name": "Profane Memento",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/233.png"
+			}
+		},
+		{
+			"name": "Supply Chest",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/234.png"
+			}
+		},
+		{
+			"name": "The Monado",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/235.png"
+			}
+		},
+		{
+			"name": "Agnus Castle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Vehicle",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/236.png"
+			}
+		},
+		{
+			"name": "Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/237.png"
+			}
+		},
+		{
+			"name": "Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/238.png"
+			}
+		},
+		{
+			"name": "Colony 6, Bastion of Homs",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/239.png"
+			}
+		},
+		{
+			"name": "Demolition Field",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/240.png"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/241.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/242.png"
+			}
+		},
+		{
+			"name": "Argentum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/243.png"
+			}
+		},
+		{
+			"name": "Indol",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/244.png"
+			}
+		},
+		{
+			"name": "Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/245.png"
+			}
+		},
+		{
+			"name": "Keves Castle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Vehicle",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/246.png"
+			}
+		},
+		{
+			"name": "Mor Ardain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/247.png"
+			}
+		},
+		{
+			"name": "New Los Angeles",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/248.png"
+			}
+		},
+		{
+			"name": "Torna",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/249.png"
+			}
+		},
+		{
+			"name": "Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/250.png"
+			}
+		},
+		{
+			"name": "Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/251.png"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/252.png"
+			}
+		},
+		{
+			"name": "The Bionis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/253.png"
+			}
+		},
+		{
+			"name": "The Mechonis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/254.png"
+			}
+		},
+		{
+			"name": "The City",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Vehicle",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/255.png"
+			}
+		},
+		{
+			"name": "The World Tree",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/256.png"
+			}
+		},
+		{
+			"name": "Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/257.png"
+			}
+		},
+		{
+			"name": "Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/258.png"
+			}
+		},
+		{
+			"name": "Uraya",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/259.png"
+			}
+		},
+		{
+			"name": "Wind-Scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/260.png"
+			}
+		},
+		{
+			"name": "Ether Cylinder",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Ether Cylinder",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/261.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/262.png"
+			}
+		},
+		{
+			"name": "Mondo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/263.png"
+			}
+		},
+		{
+			"name": "Nopon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nopon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/264.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/265.png"
+			}
+		},
+		{
+			"name": "Telethia",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Telethia",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/266.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/267.png"
+			}
+		},
+		{
+			"name": "Fiora, Reckless Companion (Token)",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature — Machina Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/268.png"
+			}
+		},
+		{
+			"name": "Spider",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Spider",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/269.png"
+			}
+		},
+		{
+			"name": "Gramps, Titan Mentor (Token)",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Creature — Titan",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/270.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/271.png"
+			}
+		},
+		{
+			"name": "Biter Bomb",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/272.png"
+			}
+		},
+		{
+			"name": "Al, Hero of Earth",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Human Soldier Pilot",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/273.png"
+			}
+		},
+		{
+			"name": "Noah's Ouroboros",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Legendary Creature — Ouroboros",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/274_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/274_front.png"
+			}
+		},
+		{
+			"name": "Lost Numbers Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout Soldier",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/275.png"
+			}
+		},
+		{
+			"name": "Off-Seer Flutes",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/276.png"
+			}
+		},
+		{
+			"name": "Aion, Ultimate Artifice",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/277.png"
+			}
+		},
+		{
+			"name": "Eunie's Ouroboros",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Legendary Creature — Ouroboros",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/278_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/278_front.png"
+			}
+		},
+		{
+			"name": "Sena's Ouroboros",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Legendary Creature — Ouroboros",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/279_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/279_front.png"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Rex, Master Driver
+	2 Addam, Torna's Champion
+	2 Masterpon of the Seven
+	2 Melia, Royal Summoner
+	2 Siren, Mythra's Artifice
+	2 Brainjack
+	2 Decadent Heiress
+	1 Meyneth, Soul of Mechonis
+	2 Rex, Apt Salvager
+	2 The Apocrypha Generator
+	2 Annihilation Event
+	2 Bionis Slash
+	2 Malos, Aegis of Destruction
+	2 Metal Face
+	2 Flame Clock
+	2 Ares Prime
+	2 Vita, Vessel of the Great One
+	2 A, Alpha's Conscience
+	2 Fiora, Reckless Companion
+	2 Fists of the End
+	2 Lora, Pioneer Driver
+	2 Lucky Seven
+	2 Dickson, Enigmatic Nomad
+	2 Search for the Lifehold
+	2 Immovable Gonzalez
+	2 The Conduit War
+	2 Tora, Makeshift Driverpon
+	2 Union Strike
+	1 Pyra, Embers of the Aegis
+	1 Alvis, The Conduit's Will
+	2 Amalthus, Blade Eater
+	2 Building Origin
+	2 Egil, Leader of Mechonis
+	1 Elma, Full Metal Jaguar
+	2 Eunie, Ouroboros Medic
+	2 Gramps, Titan Mentor
+	2 Jin, Avenger of Torna
+	2 Lanz, Ouroboros Defender
+	2 M, Moebius Defector
+	2 Matthew, Ouroboros Brawler
+	1 Mio, Ouroboros Zephyr
+	1 N, Moebius Devoted
+	2 Nia, Awakened Flower
+	1 Noah, Ouroboros Off-Seer
+	1 Pneuma, Life Aegis
+	2 Poppi a, Artificial Masterpiece
+	2 Riki, Legendary Heropon
+	2 Sena, Ouroboros Ogre
+	1 Shulk, Heir to the Monado
+	2 Taion, Ouroboros Tactician
+	2 Telethia, the Endbringer
+	2 The Aegis War
+	1 The Endless Now
+	2 Vasara, Wrothian's Pride
+	1 Z, Origin Usurper
+	1 Zanza, the Divine
+	1 The Monado
+	2 Agnus Castle
+	2 Argentum
+	2 Indol
+	2 Keves Castle
+	2 Mor Ardain
+	2 New Los Angeles
+	2 Torna
+	2 The Bionis
+	2 The Mechonis
+	2 The City
+	2 The World Tree
+	2 Uraya
+	2 Al, Hero of Earth
+	1 Off-Seer Flutes
+	2 Aion, Ultimate Artifice
+[uncommon(3)]
+	4 Cheerful Songbearer
+	4 Counterattack
+	4 Divine Archsage
+	4 Ferronis Skirmish
+	4 Kino, Aspiring Heropon
+	4 Inscrutible Thaumaturge
+	4 Off-Seer Elite
+	4 Pandoria, Big Bang Blade
+	4 Sharla, Colony 6 Medic
+	4 Nopon Revelry
+	4 A Life Sent On
+	4 Brighid, Jewel of the Empire
+	4 Party Gauge
+	4 Cloud Sea King Ken
+	4 Agnian Outpost
+	4 Dromarch, Nia's Liege
+	4 Witness the Future
+	4 Face Conversion
+	4 Final Cross
+	4 Nikol, Variable Machinist
+	4 Struggle at Spirit Crucible Elpys
+	4 Black Tar
+	4 Gigas Telethia
+	4 Lorithia's Havres
+	4 Milsaadi Assassin
+	4 To the Queen You Return
+	4 Moebius D & J
+	4 Offensive FOUND
+	4 Sadistic Operative
+	4 Siege on the White Whale
+	4 Battle for Sword Valley
+	4 Burning Sword
+	4 Mikhail's Resolve
+	4 Glimmer, Prolific Kitharode
+	4 Kevesi Colony
+	4 Lin, BLADE Prodigy
+	4 Mòrag, the Flamebringer
+	4 Autonomous Armadillo
+	4 Starstruck Firecracker
+	4 You Will Know Our Names
+	4 Bana, Argentum Kingpin
+	4 Defense of Gran Dell
+	4 Lao, Avenger of Earth
+	4 Nene, Reliable Sister
+	4 Shulk and Fiora
+	4 Traders Ferronis
+	4 Leone Telethia
+	4 Frontier Chieftan
+	4 Phonex Interpreter
+	4 Zeke, Bringer of Chaos
+	4 Ether Pump
+	4 Fan la Norne, Devoted Priest
+	4 Frontier Commanderpon
+	4 Harrier Missile Skell
+	4 Homecoming
+	4 Hugo, Ardainian Emperor
+	4 Interceptor Lailah
+	4 Argentum Chairman
+	4 M71 Flex Unit
+	4 Mikhail, Tornan Romantic
+	4 Monica, City Vanguard
+	4 Psycorruptor Operative
+	4 Puera Telethia
+	4 Reyn, Stalwart Companion
+	4 Riku & Manana, Yumsmiths
+	4 Solidum Telethia
+	4 Trick Lock
+	4 Nimble Hraesvelg
+	4 Vandham, Mercenary Mentor
+	4 Agniratha Data Center
+	4 Anchor Shot
+	4 Centuris Levnis
+	4 Mastema Reaper
+	4 Nero Andos
+	4 Profane Memento
+	4 Colony 6, Bastion of Homs
+	4 Demolition Field
+	4 Lost Numbers Scout
+[common(7)]
+	8 Argentum Pilot
+	8 Bitball Adept
+	8 Blade Art
+	8 Brilliant Ascension
+	8 Clumsy Driverpon
+	8 Energetic Zapmeister
+	8 Feed the Ferronis
+	8 Colony Commander
+	8 Lead the Charge
+	8 Pollen Workerpon
+	8 Hopeful Mediator
+	8 Protective Mamapon
+	8 Archbard Tirkin
+	8 Ray of Punishment
+	8 Soul Voice Aura
+	8 Stalwart Shield Hammer
+	8 Lifepod Stasis
+	8 Tantalese Cannon Blade
+	8 Transport Pterix
+	8 Alrest Historian
+	8 Argentum Entrepreneur
+	8 Proficient Outfitter
+	8 Defensive ONION
+	8 Ether Net
+	8 Industrious Megalancer
+	8 Diversion Tactics
+	8 Leftherian Seal
+	8 Kevesi Assassin
+	8 Military Archelon
+	8 Nia's Care
+	8 Curator Excavator
+	8 Iris Network
+	8 Shredder Quo
+	8 Soul Voice Overdrive
+	8 Shackle Arts
+	8 Trickster Blade
+	8 Urayan Tactician
+	8 Winds of Time
+	8 Arachno Pod
+	8 Undying Malice
+	8 Conniving Smugglerpon
+	8 Cull the Golds
+	8 Daredevil Champion
+	8 Violent Blade
+	8 Inferno Skydon
+	8 M32 Scout Unit
+	8 Killing Claw
+	8 M108 Spade
+	8 Mass-Produced Face
+	8 Reconstruction Formula
+	8 Reckless Blast Fencer
+	8 Reclaimer Verus
+	8 Sani Telethia
+	8 Soul Voice Debuff
+	8 The Lonely Path
+	8 Zaruboggan Devoltanizer
+	8 Zero Blade
+	8 Ace Partisan Eagle
+	8 Ardainian Royal Guard
+	8 Azure Strike
+	8 Patient Stalker
+	8 Brawny Gogol
+	8 Consul's Directives
+	8 Exciteable Signifier
+	8 Greataxe Crusher
+	8 Bionite Zealot
+	8 Mythra's Foresight
+	8 Tetsudo Levnis
+	8 Mobile Artillery
+	8 Power Spike
+	8 Prospectors Amdusias
+	8 Big Score
+	8 Resolute Harriers
+	8 Soul Voice Power
+	8 Iris Blade
+	8 Winged Viper Prodigy
+	8 Alcamoth Lookout
+	8 Ambitious Engineerpon
+	8 Bitey Bitey
+	8 Ether Channel
+	8 Coiling Aspar
+	8 Defend the Caravan!
+	8 Deimos Sauros
+	8 Drill Biter
+	8 Gluttonous Blade
+	8 Metal Blast
+	8 Mia Pippito
+	8 Monado Enchant
+	8 Overeager Curator
+	8 Survivalist Colony
+	8 Plucky Small-Frypon
+	8 Soul Voice Melee
+	8 Tirkin Archer
+	8 Visions of Morytha
+	8 Unlucky Merchantpon
+	8 Sword of Legendaryness
+	8 Blade Bot
+	8 Cloud Sea Compass
+	8 Adventurer's Airship
+	8 Ether Furnace
+	8 Giga Rosa Prototype
+	8 Junk Sword
+	8 M63 Harvester Unit
+	8 Supply Chest
+	8 Bloodfell Caves
+	8 Blossoming Sands
+	8 Dismal Backwater
+	8 Evolving Wilds
+	8 Jungle Hollow
+	8 Rugged Highlands
+	8 Scoured Barrens
+	8 Swiftwater Cliffs
+	8 Thornwood Falls
+	8 Tranquil Cove
+	8 Wind-Scarred Crag
+	8 Biter Bomb
+[foil(1)]
+	1 Rex, Master Driver
+	2 Addam, Torna's Champion
+	12 Argentum Pilot
+	12 Bitball Adept
+	12 Blade Art
+	6 Cheerful Songbearer
+	12 Brilliant Ascension
+	12 Clumsy Driverpon
+	6 Counterattack
+	6 Divine Archsage
+	12 Energetic Zapmeister
+	12 Feed the Ferronis
+	6 Ferronis Skirmish
+	12 Colony Commander
+	6 Kino, Aspiring Heropon
+	12 Lead the Charge
+	2 Masterpon of the Seven
+	2 Melia, Royal Summoner
+	6 Inscrutible Thaumaturge
+	6 Off-Seer Elite
+	6 Pandoria, Big Bang Blade
+	12 Pollen Workerpon
+	12 Hopeful Mediator
+	12 Protective Mamapon
+	12 Archbard Tirkin
+	12 Ray of Punishment
+	6 Sharla, Colony 6 Medic
+	2 Siren, Mythra's Artifice
+	12 Soul Voice Aura
+	12 Stalwart Shield Hammer
+	12 Lifepod Stasis
+	6 Nopon Revelry
+	12 Tantalese Cannon Blade
+	12 Transport Pterix
+	6 A Life Sent On
+	12 Alrest Historian
+	12 Argentum Entrepreneur
+	2 Brainjack
+	6 Brighid, Jewel of the Empire
+	6 Party Gauge
+	12 Proficient Outfitter
+	6 Cloud Sea King Ken
+	6 Agnian Outpost
+	2 Decadent Heiress
+	12 Defensive ONION
+	6 Dromarch, Nia's Liege
+	6 Witness the Future
+	12 Ether Net
+	6 Face Conversion
+	6 Final Cross
+	12 Industrious Megalancer
+	12 Diversion Tactics
+	12 Leftherian Seal
+	12 Kevesi Assassin
+	1 Meyneth, Soul of Mechonis
+	12 Military Archelon
+	12 Nia's Care
+	6 Nikol, Variable Machinist
+	12 Curator Excavator
+	12 Iris Network
+	2 Rex, Apt Salvager
+	12 Shredder Quo
+	12 Soul Voice Overdrive
+	12 Shackle Arts
+	6 Struggle at Spirit Crucible Elpys
+	2 The Apocrypha Generator
+	12 Trickster Blade
+	12 Urayan Tactician
+	12 Winds of Time
+	2 Annihilation Event
+	12 Arachno Pod
+	12 Undying Malice
+	2 Bionis Slash
+	6 Black Tar
+	12 Conniving Smugglerpon
+	12 Cull the Golds
+	12 Daredevil Champion
+	12 Violent Blade
+	6 Gigas Telethia
+	12 Inferno Skydon
+	12 M32 Scout Unit
+	12 Killing Claw
+	6 Lorithia's Havres
+	12 M108 Spade
+	2 Malos, Aegis of Destruction
+	12 Mass-Produced Face
+	2 Metal Face
+	6 Milsaadi Assassin
+	2 Flame Clock
+	6 To the Queen You Return
+	6 Moebius D & J
+	6 Offensive FOUND
+	12 Reconstruction Formula
+	12 Reckless Blast Fencer
+	12 Reclaimer Verus
+	6 Sadistic Operative
+	12 Sani Telethia
+	6 Siege on the White Whale
+	12 Soul Voice Debuff
+	12 The Lonely Path
+	2 Ares Prime
+	2 Vita, Vessel of the Great One
+	12 Zaruboggan Devoltanizer
+	12 Zero Blade
+	2 A, Alpha's Conscience
+	12 Ace Partisan Eagle
+	12 Ardainian Royal Guard
+	12 Azure Strike
+	6 Battle for Sword Valley
+	12 Patient Stalker
+	12 Brawny Gogol
+	6 Burning Sword
+	12 Consul's Directives
+	6 Mikhail's Resolve
+	12 Exciteable Signifier
+	2 Fiora, Reckless Companion
+	2 Fists of the End
+	6 Glimmer, Prolific Kitharode
+	12 Greataxe Crusher
+	12 Bionite Zealot
+	6 Kevesi Colony
+	6 Lin, BLADE Prodigy
+	2 Lora, Pioneer Driver
+	2 Lucky Seven
+	12 Mythra's Foresight
+	12 Tetsudo Levnis
+	12 Mobile Artillery
+	6 Mòrag, the Flamebringer
+	12 Power Spike
+	6 Autonomous Armadillo
+	12 Prospectors Amdusias
+	12 Big Score
+	12 Resolute Harriers
+	12 Soul Voice Power
+	6 Starstruck Firecracker
+	12 Iris Blade
+	12 Winged Viper Prodigy
+	6 You Will Know Our Names
+	12 Alcamoth Lookout
+	12 Ambitious Engineerpon
+	6 Bana, Argentum Kingpin
+	12 Bitey Bitey
+	12 Ether Channel
+	12 Coiling Aspar
+	12 Defend the Caravan!
+	6 Defense of Gran Dell
+	12 Deimos Sauros
+	2 Dickson, Enigmatic Nomad
+	12 Drill Biter
+	12 Gluttonous Blade
+	6 Lao, Avenger of Earth
+	12 Metal Blast
+	12 Mia Pippito
+	12 Monado Enchant
+	6 Nene, Reliable Sister
+	12 Overeager Curator
+	12 Survivalist Colony
+	12 Plucky Small-Frypon
+	2 Search for the Lifehold
+	6 Shulk and Fiora
+	12 Soul Voice Melee
+	6 Traders Ferronis
+	2 Immovable Gonzalez
+	2 The Conduit War
+	12 Tirkin Archer
+	2 Tora, Makeshift Driverpon
+	6 Leone Telethia
+	2 Union Strike
+	6 Frontier Chieftan
+	12 Visions of Morytha
+	6 Phonex Interpreter
+	6 Zeke, Bringer of Chaos
+	1 Pyra, Embers of the Aegis
+	1 Alvis, The Conduit's Will
+	2 Amalthus, Blade Eater
+	2 Building Origin
+	2 Egil, Leader of Mechonis
+	1 Elma, Full Metal Jaguar
+	6 Ether Pump
+	2 Eunie, Ouroboros Medic
+	6 Fan la Norne, Devoted Priest
+	6 Frontier Commanderpon
+	2 Gramps, Titan Mentor
+	6 Harrier Missile Skell
+	6 Homecoming
+	6 Hugo, Ardainian Emperor
+	6 Interceptor Lailah
+	2 Jin, Avenger of Torna
+	12 Unlucky Merchantpon
+	2 Lanz, Ouroboros Defender
+	6 Argentum Chairman
+	2 M, Moebius Defector
+	6 M71 Flex Unit
+	2 Matthew, Ouroboros Brawler
+	6 Mikhail, Tornan Romantic
+	1 Mio, Ouroboros Zephyr
+	6 Monica, City Vanguard
+	1 N, Moebius Devoted
+	2 Nia, Awakened Flower
+	1 Noah, Ouroboros Off-Seer
+	1 Pneuma, Life Aegis
+	2 Poppi a, Artificial Masterpiece
+	6 Psycorruptor Operative
+	6 Puera Telethia
+	6 Reyn, Stalwart Companion
+	2 Riki, Legendary Heropon
+	6 Riku & Manana, Yumsmiths
+	2 Sena, Ouroboros Ogre
+	1 Shulk, Heir to the Monado
+	6 Solidum Telethia
+	2 Taion, Ouroboros Tactician
+	2 Telethia, the Endbringer
+	2 The Aegis War
+	1 The Endless Now
+	6 Trick Lock
+	6 Nimble Hraesvelg
+	6 Vandham, Mercenary Mentor
+	2 Vasara, Wrothian's Pride
+	1 Z, Origin Usurper
+	1 Zanza, the Divine
+	6 Agniratha Data Center
+	6 Anchor Shot
+	12 Sword of Legendaryness
+	12 Blade Bot
+	6 Centuris Levnis
+	12 Cloud Sea Compass
+	12 Adventurer's Airship
+	12 Ether Furnace
+	12 Giga Rosa Prototype
+	12 Junk Sword
+	12 M63 Harvester Unit
+	6 Mastema Reaper
+	6 Nero Andos
+	6 Profane Memento
+	12 Supply Chest
+	1 The Monado
+	2 Agnus Castle
+	12 Bloodfell Caves
+	12 Blossoming Sands
+	6 Colony 6, Bastion of Homs
+	6 Demolition Field
+	12 Dismal Backwater
+	12 Evolving Wilds
+	2 Argentum
+	2 Indol
+	12 Jungle Hollow
+	2 Keves Castle
+	2 Mor Ardain
+	2 New Los Angeles
+	2 Torna
+	12 Rugged Highlands
+	12 Scoured Barrens
+	12 Swiftwater Cliffs
+	2 The Bionis
+	2 The Mechonis
+	2 The City
+	2 The World Tree
+	12 Thornwood Falls
+	12 Tranquil Cove
+	2 Uraya
+	12 Wind-Scarred Crag
+	12 Biter Bomb
+	2 Al, Hero of Earth
+	6 Lost Numbers Scout
+	1 Off-Seer Flutes
+	2 Aion, Ultimate Artifice
+[wildcard(1)]
+	4 Rex, Master Driver
+	7 Addam, Torna's Champion
+	6 Argentum Pilot
+	6 Bitball Adept
+	6 Blade Art
+	15 Cheerful Songbearer
+	6 Brilliant Ascension
+	6 Clumsy Driverpon
+	15 Counterattack
+	15 Divine Archsage
+	6 Energetic Zapmeister
+	6 Feed the Ferronis
+	15 Ferronis Skirmish
+	6 Colony Commander
+	15 Kino, Aspiring Heropon
+	6 Lead the Charge
+	7 Masterpon of the Seven
+	7 Melia, Royal Summoner
+	15 Inscrutible Thaumaturge
+	15 Off-Seer Elite
+	15 Pandoria, Big Bang Blade
+	6 Pollen Workerpon
+	6 Hopeful Mediator
+	6 Protective Mamapon
+	6 Archbard Tirkin
+	6 Ray of Punishment
+	15 Sharla, Colony 6 Medic
+	7 Siren, Mythra's Artifice
+	6 Soul Voice Aura
+	6 Stalwart Shield Hammer
+	6 Lifepod Stasis
+	15 Nopon Revelry
+	6 Tantalese Cannon Blade
+	6 Transport Pterix
+	15 A Life Sent On
+	6 Alrest Historian
+	6 Argentum Entrepreneur
+	7 Brainjack
+	15 Brighid, Jewel of the Empire
+	15 Party Gauge
+	6 Proficient Outfitter
+	15 Cloud Sea King Ken
+	15 Agnian Outpost
+	7 Decadent Heiress
+	6 Defensive ONION
+	15 Dromarch, Nia's Liege
+	15 Witness the Future
+	6 Ether Net
+	15 Face Conversion
+	15 Final Cross
+	6 Industrious Megalancer
+	6 Diversion Tactics
+	6 Leftherian Seal
+	6 Kevesi Assassin
+	4 Meyneth, Soul of Mechonis
+	6 Military Archelon
+	6 Nia's Care
+	15 Nikol, Variable Machinist
+	6 Curator Excavator
+	6 Iris Network
+	7 Rex, Apt Salvager
+	6 Shredder Quo
+	6 Soul Voice Overdrive
+	6 Shackle Arts
+	15 Struggle at Spirit Crucible Elpys
+	7 The Apocrypha Generator
+	6 Trickster Blade
+	6 Urayan Tactician
+	6 Winds of Time
+	7 Annihilation Event
+	6 Arachno Pod
+	6 Undying Malice
+	7 Bionis Slash
+	15 Black Tar
+	6 Conniving Smugglerpon
+	6 Cull the Golds
+	6 Daredevil Champion
+	6 Violent Blade
+	15 Gigas Telethia
+	6 Inferno Skydon
+	6 M32 Scout Unit
+	6 Killing Claw
+	15 Lorithia's Havres
+	6 M108 Spade
+	7 Malos, Aegis of Destruction
+	6 Mass-Produced Face
+	7 Metal Face
+	15 Milsaadi Assassin
+	7 Flame Clock
+	15 To the Queen You Return
+	15 Moebius D & J
+	15 Offensive FOUND
+	6 Reconstruction Formula
+	6 Reckless Blast Fencer
+	6 Reclaimer Verus
+	15 Sadistic Operative
+	6 Sani Telethia
+	15 Siege on the White Whale
+	6 Soul Voice Debuff
+	6 The Lonely Path
+	7 Ares Prime
+	7 Vita, Vessel of the Great One
+	6 Zaruboggan Devoltanizer
+	6 Zero Blade
+	7 A, Alpha's Conscience
+	6 Ace Partisan Eagle
+	6 Ardainian Royal Guard
+	6 Azure Strike
+	15 Battle for Sword Valley
+	6 Patient Stalker
+	6 Brawny Gogol
+	15 Burning Sword
+	6 Consul's Directives
+	15 Mikhail's Resolve
+	6 Exciteable Signifier
+	7 Fiora, Reckless Companion
+	7 Fists of the End
+	15 Glimmer, Prolific Kitharode
+	6 Greataxe Crusher
+	6 Bionite Zealot
+	15 Kevesi Colony
+	15 Lin, BLADE Prodigy
+	7 Lora, Pioneer Driver
+	7 Lucky Seven
+	6 Mythra's Foresight
+	6 Tetsudo Levnis
+	6 Mobile Artillery
+	15 Mòrag, the Flamebringer
+	6 Power Spike
+	15 Autonomous Armadillo
+	6 Prospectors Amdusias
+	6 Big Score
+	6 Resolute Harriers
+	6 Soul Voice Power
+	15 Starstruck Firecracker
+	6 Iris Blade
+	6 Winged Viper Prodigy
+	15 You Will Know Our Names
+	6 Alcamoth Lookout
+	6 Ambitious Engineerpon
+	15 Bana, Argentum Kingpin
+	6 Bitey Bitey
+	6 Ether Channel
+	6 Coiling Aspar
+	6 Defend the Caravan!
+	15 Defense of Gran Dell
+	6 Deimos Sauros
+	7 Dickson, Enigmatic Nomad
+	6 Drill Biter
+	6 Gluttonous Blade
+	15 Lao, Avenger of Earth
+	6 Metal Blast
+	6 Mia Pippito
+	6 Monado Enchant
+	15 Nene, Reliable Sister
+	6 Overeager Curator
+	6 Survivalist Colony
+	6 Plucky Small-Frypon
+	7 Search for the Lifehold
+	15 Shulk and Fiora
+	6 Soul Voice Melee
+	15 Traders Ferronis
+	7 Immovable Gonzalez
+	7 The Conduit War
+	6 Tirkin Archer
+	7 Tora, Makeshift Driverpon
+	15 Leone Telethia
+	7 Union Strike
+	15 Frontier Chieftan
+	6 Visions of Morytha
+	15 Phonex Interpreter
+	15 Zeke, Bringer of Chaos
+	4 Pyra, Embers of the Aegis
+	4 Alvis, The Conduit's Will
+	7 Amalthus, Blade Eater
+	7 Building Origin
+	7 Egil, Leader of Mechonis
+	4 Elma, Full Metal Jaguar
+	15 Ether Pump
+	7 Eunie, Ouroboros Medic
+	15 Fan la Norne, Devoted Priest
+	15 Frontier Commanderpon
+	7 Gramps, Titan Mentor
+	15 Harrier Missile Skell
+	15 Homecoming
+	15 Hugo, Ardainian Emperor
+	15 Interceptor Lailah
+	7 Jin, Avenger of Torna
+	6 Unlucky Merchantpon
+	7 Lanz, Ouroboros Defender
+	15 Argentum Chairman
+	7 M, Moebius Defector
+	15 M71 Flex Unit
+	7 Matthew, Ouroboros Brawler
+	15 Mikhail, Tornan Romantic
+	4 Mio, Ouroboros Zephyr
+	15 Monica, City Vanguard
+	4 N, Moebius Devoted
+	7 Nia, Awakened Flower
+	4 Noah, Ouroboros Off-Seer
+	4 Pneuma, Life Aegis
+	7 Poppi a, Artificial Masterpiece
+	15 Psycorruptor Operative
+	15 Puera Telethia
+	15 Reyn, Stalwart Companion
+	7 Riki, Legendary Heropon
+	15 Riku & Manana, Yumsmiths
+	7 Sena, Ouroboros Ogre
+	4 Shulk, Heir to the Monado
+	15 Solidum Telethia
+	7 Taion, Ouroboros Tactician
+	7 Telethia, the Endbringer
+	7 The Aegis War
+	4 The Endless Now
+	15 Trick Lock
+	15 Nimble Hraesvelg
+	15 Vandham, Mercenary Mentor
+	7 Vasara, Wrothian's Pride
+	4 Z, Origin Usurper
+	4 Zanza, the Divine
+	15 Agniratha Data Center
+	15 Anchor Shot
+	6 Sword of Legendaryness
+	6 Blade Bot
+	15 Centuris Levnis
+	6 Cloud Sea Compass
+	6 Adventurer's Airship
+	6 Ether Furnace
+	6 Giga Rosa Prototype
+	6 Junk Sword
+	6 M63 Harvester Unit
+	15 Mastema Reaper
+	15 Nero Andos
+	15 Profane Memento
+	6 Supply Chest
+	4 The Monado
+	7 Agnus Castle
+	6 Bloodfell Caves
+	6 Blossoming Sands
+	15 Colony 6, Bastion of Homs
+	15 Demolition Field
+	6 Dismal Backwater
+	6 Evolving Wilds
+	7 Argentum
+	7 Indol
+	6 Jungle Hollow
+	7 Keves Castle
+	7 Mor Ardain
+	7 New Los Angeles
+	7 Torna
+	6 Rugged Highlands
+	6 Scoured Barrens
+	6 Swiftwater Cliffs
+	7 The Bionis
+	7 The Mechonis
+	7 The City
+	7 The World Tree
+	6 Thornwood Falls
+	6 Tranquil Cove
+	7 Uraya
+	6 Wind-Scarred Crag
+	6 Biter Bomb
+	7 Al, Hero of Earth
+	15 Lost Numbers Scout
+	4 Off-Seer Flutes
+	7 Aion, Ultimate Artifice
