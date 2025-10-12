@@ -1,4 +1,145 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+M91 Dogma added.
+
+Supply Chest removed.
+Fiora, Reckless Companion (Token) removed.
+
+Argentum Entrepreneur
+rules_text: {U}, {T}: Draw a card, then discard a card. => {1}, {T}: Draw a card, then discard a card.
+
+Iris Network
+cost: {3}{U}{U} => {U}
+rules_text: Draw three cards.
+[i]Fusion Art[/i] — If {B} was spent to cast this spell, each opponent mills three cards. => Draw a card.
+[i]Fusion Art[/i] — If {B} was spent to cast this spell, any number of target players each mill three cards.
+Flashback—{4}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Rex, Apt Salvager
+cost: {U} => {1}{U}
+pt: 1/1 => 2/2
+
+Gigas Telethia
+rules_text: When this creature enters, target player mills three cards.
+Whenever a creature dies or a creature card is put into a graveyard from a library, each opponent loses 1 life. => When this creature enters, target player mills three cards.
+Whenever a creature dies or a creature card is put into a graveyard from a library, target opponent loses 1 life and you gain 1 life.
+
+Zaruboggan Devoltanizer
+rules_text: Deathtouch
+{T}, Sacrifice a creature or artifact: Each opponent loses 1 life and you gain 1 life. => Deathtouch
+{T}, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life.
+
+A, Alpha's Conscience
+cost: {4}{U}{U} => {3}{U}{U}
+
+Glimmer, Prolific Kitharode
+cost: {R} => {1}{R}
+rules_text: [i]Chain Attack[/i] — Whenever you attack, if you control three or more tapped creatures, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => [i]Chain Attack[/i] — Whenever you attack, if you control three or more tapped creatures, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{R}: Glimmer gets +1/+0 until end of turn.
+pt: 2/1 => 2/2
+
+Power Spike
+type: Sorcery => Instant
+
+Starstruck Firecracker
+cost: {1}{R} => {2}{R}
+pt: 2/1 => 2/3
+
+Ether Channel
+rules_text: Enchant land
+When this enchantment enters, create an Ether Cylinder token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+Enchanted land has “{T}: Add two mana of any one color.” => Awaken 4—{4}{G}{G} [i](When this enters, if you cast it for its awaken cost, put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Enchant land
+Enchanted land has “{T}: Add two mana of any one color.”
+
+Coiling Aspar
+rules_text: Awaken 2—{4}{G} [i](When this enters, if you cast it for its awaken cost, put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Deathtouch
+Land creatures you control have deathtouch. => Deathtouch
+{1}, {T}: Surveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Shulk and Fiora
+rules_text: Choose one. If a creature died this turn, you may choose both instead —
+• Surveil 3, then gain 1 life for each creature card in your graveyard.
+• Return up to two target permanent cards from your graveyard to your hand. => Kicker—Tap an untapped legendary creature you control. [i](You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)[/i]
+Return up to two target cards from your graveyard to your hand. If this spell was kicked, return up to one land card from your graveyard to the battlefield. Exile Shulk and Fiora.
+
+Tirkin Archer
+rules_text: Reach
+When this creature enters, create two Ether Cylinder tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Reach
+When this creature enters, create an Ether Cylinder token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+Nimble Hraesvelg
+cost: {4}{U}{R} => {1}{U}{R}
+rules_text: Flying, haste
+At the beginning of combat on your turn, create a token that's a copy of target creature that crewed this Vehicle this turn. That token gains haste. Sacrifice that token at end of combat.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, haste
+At the beginning of combat on your turn, untap up to one target creature that crewed this Vehicle this turn. That creature gains your choice of flying or haste until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 5/1 => 2/4
+
+Vasara, Wrothian's Pride
+cost: {1}{R} => {3}{R}
+rules_text: Whenever a creature you control becomes tapped during your turn, until end of turn Vasara becomes an artifact creature, gets +1/+0, and gains first strike.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample
+At the beginning of combat on your turn, create a token that's a copy of target creature that crewed Vasara this turn. That token gains haste. Exile it at the end of combat.
+Crew 1
+pt: 0/4 => 5/5
+
+Spider
+
+Gramps, Titan Mentor (Token)
+
+Copy
+
+Biter Bomb
+
+Al, Hero of Earth
+
+Noah's Ouroboros
+type: Legendary Creature — Ouroboros => Legendary Enchantment Creature — Ouroboros Saga
+rules_text: As Noah's Ouroboros enters and at the beginning of each upkeep, you may transform Noah's Ouroboros.
+Attacking creatures you control have indestructible.
+Whenever a creature you control deals combat damage to a player, exile up to that many target cards from graveyards.
+When Noah's Ouroboros attacks, you may have it gain trample and get +X/+X, where X is the number of creatures you control and creature cards in exile. If you do, exile Noah's Ouroboros at end of combat and return it to the battlefield. [i](It returns as its component cards.)[/i] => I — Noah's Ouroboros deals damage equal to the number of tapped creatures you control to any target.
+II — Exile all graveyards. You may put a creature card exiled this way onto the battlefield. It gains haste until end of turn.
+III — Exile Noah's Ouroboros, then return it to the battlefield. Untap all creatures and gain control of them until end of turn. They gain haste until end of turn. [i](It returns as its conponent parts.)[/i][/i]
+As Noah's Ouroboros enters and at the beginning of your upkeep, you may transform it.[i]
+
+Lost Numbers Scout
+cost: {1}{R} => {R}
+pt: 3/1 => 1/2
+
+Off-Seer Flutes
+rules_text: {T}: Add two mana of different colors.
+{4}, {T}, Exile a creature card from your graveyard: Return target card with Fusion Art from your graveyard to your hand. => {T}: Add two mana of different colors.
+{3}, {T}, Exile a creature card from your graveyard: Return target card with Fusion Art from your graveyard to your hand.
+
+Aion, Ultimate Artifice
+
+Eunie's Ouroboros
+type: Legendary Creature — Ouroboros => Legendary Enchantment Creature — Ouroboros Saga
+rules_text: As Noah's Ouroboros enters and at the beginning of each upkeep, you may transform Noah's Ouroboros.
+Attacking creatures you control have indestructible.
+Whenever a creature you control deals combat damage to a player, exile up to that many target cards from graveyards.
+When Noah's Ouroboros attacks, you may have it gain trample and get +X/+X, where X is the number of creatures you control and creature cards in exile. If you do, exile Noah's Ouroboros at end of combat and return it to the battlefield. [i](It returns as its component cards.)[/i] => I — Put a +1/+1 counter on each creature you control.
+II — Creatures you control gain flying, vigilance, and lifelink until end of turn.
+III — Return all permanent cards from your graveyard to the battlefield. Exile Eunie's Ouroboros, then return it to the battlefield. [i]([i]It returns as its component parts.)[/i]
+[/i]As Eunie's Ouroboros enters and at the beginning of your upkeep, you may transform it.
+
+Sena's Ouroboros
+type: Legendary Creature — Ouroboros => Legendary Enchantment Creature — Ouroboros Saga
+rules_text: As Noah's Ouroboros enters and at the beginning of each upkeep, you may transform Noah's Ouroboros.
+Attacking creatures you control have indestructible.
+Whenever a creature you control deals combat damage to a player, exile up to that many target cards from graveyards.
+When Noah's Ouroboros attacks, you may have it gain trample and get +X/+X, where X is the number of creatures you control and creature cards in exile. If you do, exile Noah's Ouroboros at end of combat and return it to the battlefield. [i](It returns as its component cards.)[/i] => I — Draw a card. You may put a permanent from your hand onto the battlefield.
+II — Until end of turn, Sena's Ouroboros gains trample and +X/+X where X is the greatest power among creatures you control.
+III — Tap each permanent your opponents control and put a stun counter on them. Exile Sena's Ouroboros, then return it to the battlefield. [i](It returns as its component parts.)[/i]
+As Sena's Ouroboros enters and at the beginning of your upkeep, you may transform it.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

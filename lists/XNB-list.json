@@ -410,7 +410,7 @@
         "number": 124,
         "shape": "normal",
         "set": "XNB",
-        "position": "275"
+        "position": "274"
     },
     {
         "card_name": "Nene, Reliable Sister",
@@ -1576,7 +1576,7 @@
         "number": 177,
         "shape": "normal",
         "set": "XNB",
-        "position": "273"
+        "position": "272"
     },
     {
         "card_name": "Amalthus, Blade Eater",
@@ -1623,24 +1623,24 @@
     },
     {
         "card_name": "The Monado",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "XNB",
         "position": "235"
     },
     {
         "card_name": "Off-Seer Flutes",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "XNB",
-        "position": "276"
+        "position": "275"
     },
     {
         "card_name": "Aion, Ultimate Artifice",
         "number": 225,
         "shape": "normal",
         "set": "XNB",
-        "position": "277"
+        "position": "276"
     },
     {
         "card_name": "Agniratha Data Center",
@@ -1672,14 +1672,14 @@
     },
     {
         "card_name": "Nero Andos",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "XNB",
         "position": "232"
     },
     {
         "card_name": "Profane Memento",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "XNB",
         "position": "233"
@@ -1696,7 +1696,7 @@
         "number": 228,
         "shape": "normal",
         "set": "XNB",
-        "position": "272"
+        "position": "271"
     },
     {
         "card_name": "Blade Bot",
@@ -1741,8 +1741,8 @@
         "position": "230"
     },
     {
-        "card_name": "Supply Chest",
-        "number": 240,
+        "card_name": "M91 Dogma",
+        "number": 236,
         "shape": "normal",
         "set": "XNB",
         "position": "234"
@@ -1992,25 +1992,25 @@
         "number": 1,
         "shape": "token",
         "set": "XNB",
-        "position": "271"
+        "position": "270"
     },
     {
         "card_name": "Ether Cylinder",
-        "number": 9,
+        "number": 8,
         "shape": "token",
         "set": "XNB",
         "position": "261"
     },
     {
         "card_name": "Food",
-        "number": 10,
+        "number": 9,
         "shape": "token",
         "set": "XNB",
         "position": "265"
     },
     {
         "card_name": "Treasure",
-        "number": 11,
+        "number": 10,
         "shape": "token",
         "set": "XNB",
         "position": "267"
@@ -2023,58 +2023,39 @@
         "position": "263"
     },
     {
-        "card_name": "Fiora, Reckless Companion (Token)",
-        "number": 3,
-        "shape": "token",
-        "set": "XNB",
-        "position": "268"
-    },
-    {
         "card_name": "Soldier",
-        "number": 4,
+        "number": 3,
         "shape": "token",
         "set": "XNB",
         "position": "262"
     },
     {
         "card_name": "Nopon",
-        "number": 5,
+        "number": 4,
         "shape": "token",
         "set": "XNB",
         "position": "264"
     },
     {
         "card_name": "Spider",
+        "number": 5,
+        "shape": "token",
+        "set": "XNB",
+        "position": "268"
+    },
+    {
+        "card_name": "Gramps, Titan Mentor (Token)",
         "number": 6,
         "shape": "token",
         "set": "XNB",
         "position": "269"
     },
     {
-        "card_name": "Gramps, Titan Mentor (Token)",
+        "card_name": "Telethia",
         "number": 7,
         "shape": "token",
         "set": "XNB",
-        "position": "270"
-    },
-    {
-        "card_name": "Telethia",
-        "number": 8,
-        "shape": "token",
-        "set": "XNB",
         "position": "266"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2094,21 +2075,21 @@
         "number": 1,
         "shape": "modal double faced",
         "set": "XNB",
-        "position": "278"
+        "position": "277"
     },
     {
         "card_name": "Noah's Ouroboros",
         "number": 2,
         "shape": "modal double faced",
         "set": "XNB",
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Sena's Ouroboros",
         "number": 3,
         "shape": "modal double faced",
         "set": "XNB",
-        "position": "279"
+        "position": "278"
     },
     {
         "card_name": "e"

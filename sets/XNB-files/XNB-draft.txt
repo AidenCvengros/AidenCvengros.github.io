@@ -600,7 +600,7 @@
 		{
 			"name": "Iris Network",
 			"rarity": "common",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
@@ -610,7 +610,7 @@
 		{
 			"name": "Rex, Apt Salvager",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Artificer Driver",
 			"collector_number": "62",
 			"image_uris": {
@@ -1064,7 +1064,7 @@
 		{
 			"name": "A, Alpha's Conscience",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Blade God",
 			"collector_number": "36",
 			"image_uris": {
@@ -1201,7 +1201,7 @@
 		{
 			"name": "Glimmer, Prolific Kitharode",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Blade Soldier",
 			"collector_number": "118",
 			"image_uris": {
@@ -1312,7 +1312,7 @@
 			"name": "Power Spike",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/128.png"
@@ -1371,7 +1371,7 @@
 		{
 			"name": "Starstruck Firecracker",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Blade",
 			"collector_number": "136",
 			"image_uris": {
@@ -2195,7 +2195,7 @@
 		{
 			"name": "Nimble Hraesvelg",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}{R}",
+			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "206",
 			"image_uris": {
@@ -2215,7 +2215,7 @@
 		{
 			"name": "Vasara, Wrothian's Pride",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "138",
 			"image_uris": {
@@ -2367,7 +2367,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/232.png"
 			}
@@ -2377,17 +2377,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/233.png"
 			}
 		},
 		{
-			"name": "Supply Chest",
+			"name": "M91 Dogma",
 			"rarity": "common",
-			"mana_cost": "{1}",
-			"type": "Artifact",
-			"collector_number": "240",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Mechon",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/234.png"
 			}
@@ -2397,7 +2397,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/235.png"
 			}
@@ -2657,7 +2657,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Ether Cylinder",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/261.png"
 			}
@@ -2667,7 +2667,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/262.png"
 			}
@@ -2687,7 +2687,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Nopon",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/264.png"
 			}
@@ -2697,7 +2697,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/265.png"
 			}
@@ -2707,7 +2707,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Telethia",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/266.png"
 			}
@@ -2717,19 +2717,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/267.png"
-			}
-		},
-		{
-			"name": "Fiora, Reckless Companion (Token)",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Legendary Artifact Creature — Machina Warrior",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/268.png"
 			}
 		},
 		{
@@ -2737,9 +2727,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Spider",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/269.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/268.png"
 			}
 		},
 		{
@@ -2747,9 +2737,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Creature — Titan",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/270.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/269.png"
 			}
 		},
 		{
@@ -2759,7 +2749,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/271.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/270.png"
 			}
 		},
 		{
@@ -2769,7 +2759,7 @@
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/272.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/271.png"
 			}
 		},
 		{
@@ -2779,34 +2769,34 @@
 			"type": "Legendary Creature — Human Soldier Pilot",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/273.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/272.png"
 			}
 		},
 		{
 			"name": "Noah's Ouroboros",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Legendary Creature — Ouroboros",
+			"type": "Legendary Enchantment Creature — Ouroboros Saga",
 			"collector_number": "2",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/274_back.png"
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/273_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/274_front.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/273_front.png"
 			}
 		},
 		{
 			"name": "Lost Numbers Scout",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Creature — Human Scout Soldier",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/275.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/274.png"
 			}
 		},
 		{
@@ -2814,9 +2804,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/276.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/275.png"
 			}
 		},
 		{
@@ -2826,15 +2816,32 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/277.png"
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/276.png"
 			}
 		},
 		{
 			"name": "Eunie's Ouroboros",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Legendary Creature — Ouroboros",
+			"type": "Legendary Enchantment Creature — Ouroboros Saga",
 			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/277_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/277_front.png"
+			}
+		},
+		{
+			"name": "Sena's Ouroboros",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Legendary Enchantment Creature — Ouroboros Saga",
+			"collector_number": "3",
 			"back": {
 				"name": "",
 				"type": "",
@@ -2844,23 +2851,6 @@
 			},
 			"image_uris": {
 				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/278_front.png"
-			}
-		},
-		{
-			"name": "Sena's Ouroboros",
-			"rarity": "masterpiece",
-			"mana_cost": "",
-			"type": "Legendary Creature — Ouroboros",
-			"collector_number": "3",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://AidenCvengros.github.io/sets/XNB-files/img/279_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://AidenCvengros.github.io/sets/XNB-files/img/279_front.png"
 			}
 		},
 	]
@@ -3121,7 +3111,7 @@
 	8 Giga Rosa Prototype
 	8 Junk Sword
 	8 M63 Harvester Unit
-	8 Supply Chest
+	8 M91 Dogma
 	8 Bloodfell Caves
 	8 Blossoming Sands
 	8 Dismal Backwater
@@ -3369,7 +3359,7 @@
 	6 Mastema Reaper
 	6 Nero Andos
 	6 Profane Memento
-	12 Supply Chest
+	12 M91 Dogma
 	1 The Monado
 	2 Agnus Castle
 	12 Bloodfell Caves
@@ -3636,7 +3626,7 @@
 	15 Mastema Reaper
 	15 Nero Andos
 	15 Profane Memento
-	6 Supply Chest
+	6 M91 Dogma
 	4 The Monado
 	7 Agnus Castle
 	6 Bloodfell Caves
