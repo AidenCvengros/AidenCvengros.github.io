@@ -1,4 +1,727 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Bulwark Thudclang added.
+Egil's Rebuke added.
+Moebius Assassin added.
+Merc Mission added.
+Flight-Ready Formula added.
+Overdrive added.
+Sagittarius Protector added.
+Collectopaedia Card added.
+Nene, Reliable Sisterpon added.
+Nopon Archeologist added.
+Kallian's Intervention added.
+Draft Archetypes added.
+Set Mechanics added.
+
+Brilliant Ascension removed.
+Leftherian Seal removed.
+Kevesi Assassin removed.
+Nia's Care removed.
+Curator Excavator removed.
+Rex, Apt Salvager removed.
+Reconstruction Formula removed.
+Ether Channel removed.
+Nene, Reliable Sister removed.
+Overeager Curator removed.
+Traders Ferronis removed.
+
+Rex, Master Driver
+rules_text: When Rex enters, search your library for a Blade card, reveal it, put it into your hand, then shuffle.
+You may target Rex, Master Driver with bond abilities as though it weren't bonded. => When Rex enters, search your library for a Blade card, reveal it, put it into your hand, then shuffle.
+You may target Rex, Master Driver with bond abilities as though he weren't bonded.
+
+Addam, Torna's Champion
+rules_text: Attacking and blocking Blades you control get +2/+2.
+At the beginning of each combat, creatures you control gain first strike until end of turn if a Blade you control has first strike. The same is true for deathtouch, double strike, flying, haste, hexproof, indestructible, lifelink, reach, menace, trample, and vigilance. => Blades you control get +2/+2.
+At the beginning of each combat, creatures you control gain first strike until end of turn if a Blade you control has first strike. The same is true for deathtouch, double strike, flying, haste, hexproof, indestructible, lifelink, reach, menace, trample, and vigilance.
+
+Argentum Pilot
+
+Bitball Adept
+rules_text: Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness and is bonded. Bond only once per turn as a sorcery.)[/i] => Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness and is bonded. Bond only once each turn as a sorcery.)[/i]
+
+Cheerful Songbearer
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Pay 4 life: This creature gains indestructible until end of turn. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Chain Attack — Whenever this creature attacks, if you control three or more tapped creatures, tap up to one target creature or Vehicle.
+
+Energetic Zapmeister
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+[i]Chain Attack[/i] — Whenever this creature attacks, if you control three or more tapped creatures, tap up to one target creature or Vehicle. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Pay 4 life: This creature gains indestructible until end of turn.
+
+Feed the Ferronis
+
+Colony Commander
+
+Kino, Aspiring Heropon
+rules_text: Whenever another creature you control enters, you gain 1 life.
+{2}{W}: Target creature you control assigns combat damage equal to its toughness rather than its power this turn. => Whenever another creature you control enters, you gain 1 life.
+{2}{W}: Until end of turn, target creature you control assigns combat damage equal to its toughness rather than its power.
+pt: 0/2 => 0/3
+
+Inscrutible Thaumaturge
+
+Off-Seer Elite
+
+Pandoria, Big Bang Blade
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+As long as it's your turn, Blades and bonded creatures you control have first strike. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+As long as it's your turn, Blades and bonded creatures you control have first strike.
+
+Mediator's Urban
+rules_text: [i]Fusion Art[/i] — This Vehicle enters with a flying counter on it if {U} was spent to cast it.
+When this Vehicle enters, create a 1/1 green Nopon creature token.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => [i]Fusion Art[/i] — This Vehicle enters with a flying counter on it if {U} was spent to cast it.
+When this Vehicle enters, create a 1/1 green Nopon creature token.
+Crew 1
+
+Soul Voice Aura
+rules_text: Choose two —
+• Gain 3 life.
+• Surveil 2.
+• Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Return target permanent you control to its owner's hand. Gain 3 life. Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+Stalwart Shield Hammer
+type: Creature — Blade Warrior => Creature — Blade Knight
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Vigilance => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Vigilance
+
+Tantalese Cannon Blade
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+As long as you gained or lost life this turn, this creature has flying. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+This creature has flying as long as you gained or lost life this turn.
+
+Transport Pterix
+
+Alrest Historian
+cost: {3}{U} => {2}{U}
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Whenever this creature attacks, if an artifact you control entered this turn, surveil 2. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+This creature gets +1/+1 for each noncreature spell you've cast this turn.
+pt: 3/3 => 2/1
+
+Argentum Entrepreneur
+rules_text: {1}, {T}: Draw a card, then discard a card. => {1}, {T}: Draw a card, then discard a card.
+{6}, {T}: Creatures you control gain flying until end of turn.
+
+Brainjack
+rules_text: You may cast target instant, sorcery, or artifact card in an opponent's graveyard without paying it's mana cost. => You may cast target instant, sorcery, or artifact card from an opponent's graveyard without paying its mana cost.
+
+Brighid, Jewel of the Empire
+cost: {1}{U} => {2}{U}
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Whenever this creature deals combat damage to a player, create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Whenever this creature attacks, you may tap another untapped creature you control. If you do, this creature can't be blocked this turn.
+pt: 2/1 => 2/2
+
+Party Gauge
+
+Proficient Outfitter
+rules_text: [i]Fusion Art[/i] — When this creature enters, if {W} was spent to cast it, create two Ether tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+{6}, {T}: Creatures you control gain flying until end of turn. => Flash
+Whenever another artifact you control enters, you may draw a card. If you do, discard a card.
+pt: 3/4 => 1/5
+
+Cloud Sea King Ken
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever this creature becomes tapped, choose up to one target creature or artifact. If it's tapped, put a stun counter on it. Otherwise, tap it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Ward {2}
+Whenever Cloud Sea King Ken becomes tapped, choose up to one target creature or artifact. If it's tapped, put a stun counter on it. Otherwise, tap it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Agnian Outpost
+rules_text: [i]Ferronis [/i]— As long as this Vehicle is on the battlefield, its a land in addition to its other types.
+{T}: Add {U}. Spend this mana only to activate abilities.
+{3}{U}, {T}: Target player mills two cards. You draw a card.
+Crew 7 => {T}: Add one mana of any color. Spend this mana only to activate abilities.
+{3}{U}, {T}: Target player mills two cards. You draw a card.
+Crew 7
+
+Decadent Heiress
+rules_text: Bond
+Whenever this creature becomes tapped, you may pay {1}{U}. If you do, exile all tokens you control with gold counters on them. Create a token that's a copy of this creature except it isn't legendary if this creature is legendary and put a gold counter on it. => Bond
+Whenever this creature deals combat damage to a player, you may exile all tokens you control with gold counters on them. If you do, create a token that's a copy of this creature except it isn't legendary if this creature is legendary and put a gold counter on it.
+
+Defensive ONION
+
+Dromarch, Nia's Liege
+cost: {2}{U}{U} => {1}{U}
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Whenever this creature deals combat damage to a player, draw a card. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Whenever this creature deals combat damage to a player, draw a card.
+pt: 2/4 => 1/1
+
+Final Cross
+rules_text: [i]Fusion Art[/i] - Tap each creature opponents control. If {B} was spent to cast this spell, those creatures get -1/-1 until end of turn. => [i]Fusion Art[/i] - Tap each creature your opponents control. If {B} was spent to cast this spell, those creatures get -1/-1 until end of turn.
+
+Industrious Megalancer
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+{4}{U}: This creature can't be blocked this turn. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+{4}{U}: This creature can't be blocked this turn.
+
+Military Archelon
+rules_text: Whenever this creature becomes tapped, up to one target creature gets -3/-0 until end of turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Whenever this creature attacks, you may tap two other untapped creatures you control. If you do, this creature can't be blocked this turn.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 5/4 => 5/6
+
+Shackle Arts
+rules_text: Counter target spell. Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Counter target spell.
+Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+Struggle at Spirit Crucible Elpys
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, return target creature to its owner's hand. Create a token that's a copy of that creature except it's an Illusion in addition to its other types. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, return target creature to its owner's hand. Create a token that's a copy of that creature except it's an Illusion in addition to its other types.
+
+Trickster Blade
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Flying => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Flying
+
+Urayan Tactician
+cost: {2}{U} => {3}{U}
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+This creature gets +1/+1 for each noncreature spell you have cast this turn. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Whenever this creature attacks, up to one target creature gets -3/-0 until end of turn.
+pt: 2/1 => 3/3
+
+Winds of Time
+rules_text: Target nonland permanent's owner puts it on their choice of the top or bottom of their library. Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+Arachno Pod
+rules_text: [i]Fusion Art[/i] - When this creature enters, if {W} was spent to cast it, gain 2 life.
+When this creature dies, create two 1/2 green Spider creature tokens with reach. => [i]Fusion Art[/i] - When this creature enters, if {W} was spent to cast it, gain 3 life.
+When this creature dies, create two 1/2 green Spider creature tokens with reach.
+
+Undying Malice
+
+Bionis Slash
+rules_text: Target player mills X cards. Exile Bionis Slash with five time counters on it.
+At the beginning of your upkeep, if Bionis Slash is exiled, remove a time counter from it. When the last time counter is removed, exile target player's graveyard. Each opponent loses life equal to the number of creature cards exiled this way. => Target player mills X cards. Exile Bionis Slash with five time counters on it.
+At the beginning of your upkeep, if Bionis Slash is exiled, remove a time counter from it. When the last time counter is removed, exile target player's graveyard. Each opponent loses X life where X is half the number of cards exiled this way rounded up.
+
+Black Tar
+rules_text: Kicker—Tap an untapped legendary creature you control. [i](You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)[/i]
+Exile target creature or Vehicle. If this spell was kicked, you may play that card for as long as it remains exiled, and mana of any type can be spent to cast it. => Kicker—Tap an untapped legendary creature you control. [i](You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)[/i]
+Exile target creature or Vehicle. If this spell was kicked, each opponent loses 2 life and you gain 2 life.
+
+Violent Blade
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i] => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness and is bonded. Bond only as a sorcery.)[/i]
+
+Gigas Telethia
+pt: 6/6 => 6/5
+
+M108 Spade
+pt: 5/5 => 5/4
+
+Malos, Aegis of Destruction
+rules_text: Bond
+Pay 2 life: This creature gains first strike and deathtouch until end of turn.
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up. => Bond
+Pay 2 life: This creature gains deathtouch until end of turn.
+Whenever this creature deals combat damage to a player, they lose half their life, rounded up.
+
+Milsaadi Assassin
+rules_text: Whenever this creature becomes tapped, each opponent loses 1 life and you gain 1 life.
+Whenever you lose life during your turn, put a +1/+1 counter on this creature. => Whenever this creature becomes tapped, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, if you lost life this turn, put a +1/+1 counter on this creature.
+
+Flame Clock
+rules_text: At the beginning of your upkeep, you lose 1 life and create a 2/1 red Soldier creature token.
+{1}{B}, {T}, Sacrifice another creature or artifact: You gain 1 life and draw a card. Activate only as a sorcery. => At the beginning of your upkeep, you lose 1 life and create a 2/1 red Soldier creature token.
+{1}{B}, {T}, Sacrifice another creature or artifact: You gain 1 life and draw a card.
+
+Reclaimer Verus
+pt: 4/4 => 3/4
+
+Sani Telethia
+
+Siege on the White Whale
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, each player sacrifices two creatures. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, each player sacrifices two creatures.
+
+Soul Voice Debuff
+
+Ares Prime
+rules_text: Flying, first strike, lifelink
+Whenever another Soldier or Vehicle you control dies, Ares Prime deals 1 damage to each opponent.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, first strike, lifelink
+Whenever another Soldier or Vehicle you control dies, Ares Prime deals 1 damage to each opponent.
+Crew 4
+
+Zaruboggan Devoltanizer
+
+A, Alpha's Conscience
+rules_text: Flash
+Vigilance
+You may look at the top card of your library at any time.
+{T}: You may play the top card of your library. => Flash
+Vigilance
+You may look at the top card of your library at any time.
+{T}: Exile the top card of your library. You may play that card.
+
+Ace Partisan Eagle
+rules_text: Awaken 4—{5}{R}{R} [i](When this enters, if you cast it for its awaken cost, put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+[i]Chain Attack — [/i]Whenever you attack, if you control three or more tapped creatures, this creature deals 1 damage to each opponent. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature becomes tapped, it deals 1 damage to each opponent.
+pt: 3/4 => 3/3
+
+Ardainian Royal Guard
+rules_text: Awaken 3—{5}{R} [i](When this enters, if you cast it for its awaken cost, put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Fusion Art — When this creature enters, if {U} was spent to cast it, tap up to one target creature or artifact. => Fusion Art — When this creature enters, if {U} was spent to cast it, tap up to one target creature or artifact and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Battle for Sword Valley
+cost: {3}{R}{R} => {4}{R}
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create two 2/1 red Soldier creature tokens. Soldiers you control gain first strike and haste until end of turn. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create two 2/1 red Soldier creature tokens. Soldiers you control gain first strike and haste until end of turn.
+
+Skilled Stalker
+rules_text: Reach
+{1}, {T}: This creature deals 1 damage to each opponent. => Reach
+[i]Fusion Art[/i] — When this creature enters, if {W} was spent to cast it, create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+{1}, {T}: This creature deals 1 damage to each opponent.
+
+Brawny Gogol
+rules_text: Awaken 5—{8}{R}{R} [i](When this enters, if you cast it for its awaken cost, put five +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+{T}, Sacrifice an artifact or land: This creature deals 2 damage to each opponent.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Burning Sword
+type: Sorcery => Instant
+cost: {1}{R} => {2}{R}
+rules_text: Awaken 4—{5}{R}{R} [i](If you cast this spell for its awaken cost, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Burning Sword deals 4 damage to target creature, planeswalker, or battle. => This spell costs {2} less to cast if you control a bonded creature.
+Burning Sword deals 3 damage to any target.
+
+Mikhail's Resolve
+
+Exciteable Signifier
+rules_text: [i]Fusion Art [/i]- When this creature enters, if {W} was spent to cast it, target creature gains indestructible until end of turn.
+At the beginning of combat on your turn, target creature gets +1/+0 until end of turn. => [i]Fusion Art [/i]- When this creature enters, if {B} was spent to cast it, target creature or Vehicle gains indestructible until end of turn.
+At the beginning of combat on your turn, target creature gets +1/+0 until end of turn.
+
+Glimmer, Prolific Kitharode
+rules_text: [i]Chain Attack[/i] — Whenever you attack, if you control three or more tapped creatures, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{R}: Glimmer gets +1/+0 until end of turn. => Whenever this creature becomes tapped, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+{R}: Glimmer gets +1/+0 until end of turn.
+
+Greataxe Crusher
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Menace => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Menace
+
+Kevesi Colony
+rules_text: [i]Ferronis[/i] — As long as this Vehicle is on the battlefield, its a land in addition to its other types.
+[i]Fusion Art[/i] — This Vehicle enters with a trample counter on it if {G} was spent to cast it.
+{T}: Add {R}.
+Crew 6 [i](Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Awaken 6—{6}{R}{R} [i](When this enters, if you cast it for its awaken cost, put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+{T}: Add {R}.
+Crew 6
+pt: 7/7 => 7/8
+
+Lin, BLADE Prodigy
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever Lin becomes tapped, exile the top card of your library. If this is the second time this ability has resolved this turn, you may cast that card without paying its mana cost. Otherwise, you may play that card until the end of your next turn. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever Lin becomes tapped, exile the top card of your library. If this is the second time this ability has resolved this turn, you may cast that card without paying its mana cost. Otherwise, you may play that card until your next end step.
+
+Tetsudo Levnis
+rules_text: Haste
+When this creature enters, it becomes an artifact creature until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Haste
+When this creature enters, it becomes an artifact creature until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/4 => 5/5
+
+Mobile Artillery
+rules_text: Haste
+{1}, Sacrifice this Vehicle: Destroy target artifact.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample, haste
+{1}, Sacrifice this Vehicle: Destroy target artifact.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Mòrag, the Flamebringer
+
+Power Spike
+type: Instant => Sorcery
+cost: {2}{R} => {1}{R}
+rules_text: This spell costs {2} less to cast if a Vehicle you control attacked this turn.
+Power Spike deals 3 damage to any target. => [i]Fusion Art[/i] — Power Spike deals 4 damage to target creature, battle, or planeswalker. If {G} was spent to cast it, surveil X, where X is the amount of excess damage dealt.
+
+Autonomous Armadillo
+
+Prospectors Amdusias
+rules_text: Whenever this Vehicle becomes tapped during your turn, create a Treasure token.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle becomes tapped, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Resolute Harriers
+rules_text: [i]Fusion Art[/i] — When this creature enters, create a 2/1 red Soldier creature token. Then if {B} was spent to cast it, Soldiers you control gain “Whenever this creature becomes tapped, each opponent loses 1 life.” until end of turn. => When this creature enters, create a 2/1 red Soldier creature token.
+[i]Chain Attack[/i] — Whenever you attack, if you control three or more tapped creatures, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Soul Voice Power
+rules_text: [i]Fusion Art[/i] - Target creature gets +3/+0 and gains first strike until end of turn. If {G} was spent to cast this spell, that creature also gains trample until end of turn. => [i]Fusion Art[/i] — Target creature gets +3/+0 and gains first strike until end of turn. If {G} was spent to cast this spell, that creature also gains trample until end of turn.
+
+Starstruck Firecracker
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+[i]Chain Attack[/i] — Whenever this creature attacks, if you control three or more creatures, it gets +1/+0 and gains trample until end of turn. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+[i]Chain Attack[/i] — Whenever this creature attacks, if you control three or more creatures, it gets +1/+0 and gains trample until end of turn.
+pt: 2/3 => 2/2
+
+Iris Blade
+
+Winged Viper Prodigy
+
+Bana, Argentum Kingpin
+rules_text: This spell costs {1} less for each creature that died this turn.
+[i]Fusion Art[/i] — Bana enters with X +1/+1 counters on him. He also enters with a menace counter on him if {B} was spent to cast him.
+{1}{G}, Sacrifice another creature or artifact: Bana gains hexproof until end of turn. Tap it. => [i]Fusion Art[/i] — Bana enters with X +1/+1 counters on him. If {B} was spent to cast him, he enters with an additional +1/+1 counter on him for each creature that died this turn.
+{1}{G}, Sacrifice another creature or artifact: Bana gains hexproof until end of turn. Tap it.
+
+Coiling Aspar
+
+Defense of Gran Dell
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, creatures you control get +2/+2 and gain trample until end of turn. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, creatures you control get +2/+2 and gain trample until end of turn.
+
+Deimos Sauros
+
+Lao, Avenger of Earth
+rules_text: Awaken X—{X}{R}{G}{G} [i](When this enters, if you cast it for its awaken cost, put X +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Reach
+Whenever a land creature you control dies, return it to its owner's hand. If it had counters on it, put those counters on Lao. => Awaken X—{X}{R}{G}{G} [i](When this enters, if you cast it for its awaken cost, put X +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+Reach
+Whenever a land creature you control dies, put X +1/+1 counters on Lao where X is that creature's power.
+pt: 3/1 => 3/3
+
+Mia Pippito
+rules_text: When Mia Pippito enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: You may put a land card from your hand onto the battlefield. => [i]Fusion Art[/i] — When this creature enters, if {B} was spent to cast it, surveil 2.
+{T}: You may put a land card from your hand onto the battlefield.
+
+Monado Enchant
+rules_text: Enchant permanent
+Awaken 1—{3}{G} [i](When this enters, if you cast it for its awaken cost, put a +1/+1 counter on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)[/i]
+As long as enchanted permanent is a creature, it gets +3/+3.
+When enchanted permanent dies, if it was a land, return it to its owner's hand. => Enchant creature, artifact, or land
+As long as enchanted permanent is a creature, it gets +2/+2.
+Enchanted permanent has “{T}: Add two mana of any one color.”
+
+Survivalist Colony
+rules_text: [i]Ferronis[/i] — As long as this Vehicle is on the battlefield, its a land in addition to its other types.
+Vigilance
+{T}, Tap an untapped creature or artifact you control: Add one mana of any color.
+Crew 6 [i](Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Vigilance
+{T}, Tap an untapped permanent you control: Add one mana of any color.
+Crew 5 [i](Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 5/8 => 4/9
+
+Plucky Small-Frypon
+
+Shulk and Fiora
+rules_text: Kicker—Tap an untapped legendary creature you control. [i](You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)[/i]
+Return up to two target cards from your graveyard to your hand. If this spell was kicked, return up to one land card from your graveyard to the battlefield. Exile Shulk and Fiora. => Kicker—Tap an untapped legendary creature you control. [i](You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)[/i]
+Return up to two target cards from your graveyard to your hand. If this spell was kicked, return up to one land card from your graveyard to the battlefield.
+Exile Shulk and Fiora.
+
+Soul Voice Melee
+rules_text: Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control. Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control.
+Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+Immovable Gonzalez
+rules_text: Trample, Ward {3}
+Immovable Gonzalez enters tapped with eight minus X stun counters on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+[i][i]Landfall[/i][/i] — Whenever a land you control enters, create an Ether token. => Trample, ward {2}
+Immovable Gonzalez enters tapped with eight stun counters on it. Untap it X times. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+[i][i]Landfall[/i][/i] — Whenever a land you control enters, create an Ether token.
+
+The Conduit War
+rules_text: 
+Search your library for a land card and put it onto the battlefield. Shuffle your library.
+You may have target creature you control fight another target creature.
+Noncreature permanents you don't control phase out.
+IV — If this enchantment isn't a token, create two tokens that are copies of it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for a land card and put it onto the battlefield. Shuffle your library.
+You may have target creature you control fight another target creature.
+Noncreature permanents you don't control phase out.
+IV — If this enchantment isn't a token, create two tokens that are copies of it.
+special_text: 
+Search your library for a land card and put it onto the battlefield. Shuffle your library.
+You may have target creature you control fight another target creature.
+Noncreature permanents you don't control phase out.
+IV — If this enchantment isn't a token, create two tokens that are copies of it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for a land card and put it onto the battlefield. Shuffle your library.
+You may have target creature you control fight another target creature.
+Noncreature permanents you don't control phase out.
+IV — If this enchantment isn't a token, create two tokens that are copies of it.
+
+Tirkin Archer
+
+Leone Telethia
+rules_text: As long as this creature is untapped, it has hexproof.
+This creature can't be blocked by creatures with power X or less where X is the number of creature cards exiled with this creature.
+Whenever this creature becomes tapped, exile up to one target card from a graveyard. => As long as this creature is untapped, it has hexproof.
+This creature can't be blocked by creatures with power X or less where X is the number of creature cards exiled with this creature.
+Whenever this creature becomes tapped, exile target card from a graveyard.
+
+Union Strike
+rules_text: Choose one —
+• Create twelve 1/1 green Nopon creature tokens.
+• Target creature gets +12/+12 until end of turn. All creatures able to block that creature this turn do so.
+• Draw cards equal to the total power among creatures you control. => Choose one —
+• Create twelve 1/1 green Nopon creature tokens.
+• Target creature gets +12/+12 and gains trample until end of turn. All creatures able to block that creature this turn do so.
+• Draw cards equal to the total power among creatures you control.
+
+Frontier Chieftan
+rules_text: Other Nopon you control get +1/+1.
+[i][i]Landfall[/i][/i] — Whenever a land you control enters, create a 1/1 green Nopon creature token. => Haste
+Other Nopon you control get +1/+1.
+{1}{G}, {T}: Create a 1/1 green Nopon creature token.
+
+Visions of Morytha
+rules_text: Return target permanent card from your graveyard to your hand. Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i] => Return target permanent card from your graveyard to your hand.
+Create an Ether token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)[/i]
+
+Phonex Interpreter
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+{G}, {T}: Choose {W}, {U}, {B}, or {R}. Add X mana of the chosen color, where X is this creature's power. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+{G}, {T}: Choose {W}, {U}, {B}, or {R}. Add X mana of the chosen color, where X is this creature's power.
+
+Zeke, Bringer of Chaos
+rules_text: [i]Fusion Art[/i] — You may cast Zeke, Bringer of Chaos as though it had flash if {W} was spent to cast it.
+When Zeke, Bringer of Chaos enters put a +1/+1 counter on up to three target creatures.
+When Zeke, Bringer of Chaos leaves the battlefield, double the number of +1/+1 counters on each creature you control. => [i]Fusion Art[/i] — You may cast Zeke, Bringer of Chaos as though it had flash if {W} was spent to cast it.
+When Zeke, Bringer of Chaos enters put a +1/+1 counter on up to three target creatures.
+When Zeke, Bringer of Chaos dies, double the number of +1/+1 counters on each creature you control.
+
+Pyra, Embers of the Aegis
+
+Alvis, The Conduit's Will
+loyalty: 3 => 4
+
+Amalthus, Blade Eater
+cost: {3}{W}{U}{B} => {2}{W}{U}{B}
+pt: 6/6 => 5/5
+
+Building Origin
+rules_text: 
+I — Create an Ether token for each creature you control. 
+II — Tap any number of target creatures and put stun counters on each of them. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — This enchantment deals 5 damage to each untapped creature. => 
+I — Create an Ether token for each creature you control. 
+II — Tap any number of target creatures. Put a stun counter on each creature tapped this way.
+III — This enchantment deals 5 damage to each tapped creature.
+special_text: 
+I — Create an Ether token for each creature you control. 
+II — Tap any number of target creatures and put stun counters on each of them. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — This enchantment deals 5 damage to each untapped creature. => 
+I — Create an Ether token for each creature you control. 
+II — Tap any number of target creatures. Put a stun counter on each creature tapped this way.
+III — This enchantment deals 5 damage to each tapped creature.
+
+Eunie, Ouroboros Medic
+rules_text: At the beginning of each end step, put X +1/+1 counters on target creature and target player gains X life, where X is the number of tokens you created this turn.
+When creatures you both own and control named Eunie, Ouroboros Medic and Taion, Ouroboros Tactician attack, you may exile them, then meld them into Eunie's Ouroboros. It enters tapped and attacking. => Whenever you create one or more tokens for the first time each turn, draw a card and gain 1 life.
+When creatures you both own and control named Eunie, Ouroboros Medic and Taion, Ouroboros Tactician attack, you may exile them, then meld them into Eunie's Ouroboros. It enters tapped and attacking.
+
+Fan la Norne, Devoted Priest
+rules_text: Flash
+When Fan la Norne enters, you may activate bond abilities of creatures you control any time you could cast an instant and as though those creatures had haste until end of turn.
+Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness to its own and becomes bonded. Bond only once per turn as a sorcery.)[/i] => Flash
+When Fan la Norne enters, you may activate bond abilities of creatures you control any time you could cast an instant and as though those creatures had haste until end of turn.
+Bond
+
+Interceptor Lailah
+rules_text: Menace
+[i]Chain Attack[/i] — Whenever you attack, if you control three or more tapped creatures, create two 2/1 red Soldier creature tokens that are tapped and attacking.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => [i]Chain Attack[/i] — Whenever you attack, if you control three or more tapped creatures, create two 2/1 red Soldier creature tokens that are tapped and attacking.
+Crew 4
+pt: 8/6 => 8/8
+
+Jin, Avenger of Torna
+rules_text: Vigilance, first strike
+If your life total is 10 or less, you may cast Jin, Avenger of Torna from your graveyard. If you do, he enters with a finality counter on him. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => First strike, vigilance
+If your life total is 10 or less, you may cast Jin, Avenger of Torna from your graveyard. If you do, he enters with a finality counter on him. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Argentum Chairman
+rules_text: Vigilance
+{1}{U}, {T}: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{X}{G}, {T}, Exile a card with mana value X from your graveyard: Put X +1/+1 counters on target creature. Activate only as a sorcery. => Vigilance
+{1}{U}, {T}: Surveil 2.
+{X}{G}, {T}, Exile a card with mana value X from your graveyard: Put X +1/+1 counters on target creature. Activate only as a sorcery.
+
+M, Moebius Defector
+rules_text: When M, Moebius Defector enters, exchange control of it and target creature an opponent controls.
+At the beginning of your upkeep put a +1/+1 counter on M, Moebius Defector, then mill a card for each +1/+1 counter on M.
+If M, Moebius Defector would leave the battlefield, exile it instead. => When M enters, exchange control of her and target creature an opponent controls.
+M, Moebius Defector can't block.
+At the beginning of your upkeep put a +1/+1 counter on M, Moebius Defector, then mill X cards where X is her power.
+If M, Moebius Defector would leave the battlefield, exile it instead.
+
+M71 Flex Unit
+cost: {5}{U}{B} => {6}{U}{B}
+rules_text: Flash
+Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When this creature enters, return target nonland permanent to its owner's hand, then that player discards a card. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When this creature enters, return target nonland permanent to its owner's hand, then that player discards a card.
+pt: 3/3 => 4/4
+
+Matthew, Ouroboros Brawler
+rules_text: Double strike
+{T}: Add one mana of any color.
+This creature gets +1/+0 for each color of mana you spent to cast spells this turn. => {T}: Add one mana of any color.
+This creature gets +1/+0 for each color of mana you spent to cast spells this turn.
+
+Mikhail, Tornan Romantic
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Whenever this creature attacks, you may draw a card and lose 2 life. If you don't, gain 2 life. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Whenever this creature attacks, you may draw a card and lose 2 life. If you don't, gain 2 life.
+
+Mio, Ouroboros Zephyr
+cost: {2}{W}{U} => {1}{W}{U}
+rules_text: Interlink with Noah, Ouroboros Off-Seer [i](You can have both creatures be your commanders. Melds with that creature.)[/i]
+Whenever Mio deals combat damage to a player, look at the top X cards of your library where X is the number of tapped creatures you control. Put one of those cards into your hand and the rest on the bottom of your library in a random order. => Interlink with Noah, Ouroboros Off-Seer [i](You can have both creatures be your commanders. Melds with that creature.)[/i]
+Vigilance
+Whenever Mio becomes the target of a spell or ability you control for the first time each turn, draw a card.
+pt: 4/4 => 3/3
+
+Monica, City Vanguard
+rules_text: Tapped creatures you control get +1/+0 and have first strike.
+Untapped creatures you control get +0/+1 and have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i] => Tapped creatures you control get +1/+0 and have first strike.
+Untapped creatures you control get +0/+1 and have ward {1}.
+
+Nia, Awakened Flower
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Lifelink
+[i]Chain Attack[/i] — Whenever this creature attacks, if you control three or more tapped creatures, prevent all damage that would be dealt to this creature until end of turn. => Bond
+Lifelink
+[i]Chain Attack[/i] — Whenever this creature attacks, if you control three or more tapped creatures, prevent all damage that would be dealt to this creature until end of turn.
+
+Pneuma, Life Aegis
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+First strike, flying, trample, vigilance, haste, ward {2} => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+First strike, flying, trample, vigilance, haste, ward {2}
+
+Poppi a, Artificial Masterpiece
+rules_text: Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)[/i]
+Whenever this creature attacks, other Drivers, Blades, and Nopon you control get +1/+1 until end of turn. => Bond [i]({T}: Until end of turn, target nonbonded creature adds this creature's base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)[/i]
+Whenever this creature attacks, other Drivers, Blades, and Nopon you control get +1/+1 until end of turn.
+pt: 3/3 => 3/2
+
+Psycorruptor Operative
+
+Puera Telethia
+rules_text: Whenever a creature you control dies, search your library for a basic land card, put it onto your battlefield tapped, then shuffle. This ability only triggers once each turn. => Whenever this creature or another creature you control dies, search your library for a basic land card, put it onto your battlefield tapped, then shuffle. This ability only triggers once each turn.
+
+Reyn, Stalwart Companion
+
+Shulk, Heir to the Monado
+rules_text: [i]Vision[/i] — When Shulk enters and at the beginning of your upkeep, each player exiles the top card of their library. Until your next turn, each player may play the card they exiled this way. Then choose a number between 0 and 10.
+[i]Change the Future[/i] — Spells opponents cast with mana value equal to the last chosen number cost {2} more to cast. => [i]Vision[/i] — When Shulk enters and at the beginning of your upkeep, each player exiles the top card of their library. Until your next turn, each player may play the card they exiled this way. Then choose a number between 0 and 10.
+[i]Change the Future[/i] — Spells opponents cast with mana value equal to the last chosen number cost {4} more to cast.
+
+Solidum Telethia
+rules_text: Flying
+As long as its untapped, this creature has hexproof.
+When this creature enters, exile up to two target cards from graveyards.
+Whenever a card leaves your graveyard, create a 3/3 black and green Telethia creature token with “As long as its untapped, this creature has hexproof.” => As long as its untapped, this creature has hexproof.
+When this creature enters, exile up to two target cards from graveyards.
+Whenever a card leaves your graveyard, create a 3/3 black and green Telethia creature token with “As long as its untapped, this creature has hexproof.”
+
+Telethia, the Endbringer
+rules_text: Flying, trample
+Telethia, the Endbringer's power is equal to the total number of creature cards and land cards in all graveyards and in exile.
+Sacrifice a creature or land: Draw a card.
+When Telethia, the Endbringer is put into a graveyard from anywhere, shuffle it into its owner's library. => Flying, trample
+As long as this creature is untapped, it has hexproof.
+Sacrifice a creature or land: Draw a card.
+When Telethia, the Endbringer is put into a graveyard from anywhere, shuffle it into its owner's library.
+pt: */8 => 8/8
+
+Nimble Hraesvelg
+cost: {1}{U}{R} => {3}{U}{R}
+rules_text: Flying, haste
+At the beginning of combat on your turn, untap up to one target creature that crewed this Vehicle this turn. That creature gains your choice of flying or haste until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying, haste
+At the beginning of combat on your turn, untap up to one target creature that crewed this Vehicle this turn. That creature gains your choice of flying or haste until end of turn.
+Crew 1
+pt: 2/4 => 3/5
+
+Vandham, Mercenary Mentor
+
+Z, Origin Usurper
+cost: {1}{B}{G}{U} => {2}{B}{G}{U}
+rules_text: You can't play lands.
+At the beginning of your upkeep, exile a land you control. Then return up to three land cards from graveyards to the battlefield under your control.
+Lands you control have indestructible.
+{4}, Discard a land card: Target land you control becomes a 3/3 artifact creature with haste. It's still a land. => {1}: Exile target card from a graveyard.
+At the beginning of your end step, each player mills two cards. Then each opponent chooses a creature card in their graveyard. Return those cards to the battlefield under your control with a finality counter on them.
+
+Agniratha Data Center
+cost: {3} => {2}
+
+Sword of Legendaryness
+
+Mastema Reaper
+rules_text: Pay 2 life: This Vehicle becomes an artifact creature until end of turn.
+Whenever an artifact creature you control deals combat damage to a player, each player mills that many cards.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Pay 2 life: This Vehicle becomes an artifact creature until end of turn.
+Whenever an artifact creature you control deals combat damage to a player, each player mills that many cards.
+Crew 2
+
+M91 Dogma
+
+Colony 6, Bastion of Homs
+
+Keves Castle
+rules_text: Keves Castle enters tapped.
+{T}: Add {B} or {R}.
+{2}{B}{R}, [/i]Tap any number of creatures you control with total power 5 or more: Keves Castle becomes an artifact creature until end of turn.[i] It's still a land.
+Trample
+Whenever Keves Castle attacks, create a 2/1 red Soldier creature token. => Keves Castle enters tapped.
+{T}: Add {B} or {R}.
+{B}{R}, [/i]Tap any number of creatures you control with total power 4 or more: Keves Castle becomes an artifact creature until end of turn.[i] It's still a land.
+Whenever Keves Castle attacks, create a 2/1 red Soldier creature token.
+
+New Los Angeles
+
+The City
+rules_text: The City enters tapped.
+{T}: Add {R} or {W}.
+{R}{W}, Tap any number of creatures you control with total power 2 or more: The City becomes an artifact creature until end of turn. It's still a land.
+Hexproof, flying => The City enters tapped.
+{T}: Add {R} or {W}.
+{R}{W}, Tap any number of creatures you control with total power 1 or more: The City becomes an artifact creature until end of turn. It's still a land.
+Hexproof, flying
+
+Biter Bomb
+
+Lost Numbers Scout
+rules_text: Whenever a land you control is put into a graveyard from the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{3}, {T}, Sacrifice an artifact or land: Draw a card. => Whenever a land you control is put into a graveyard from the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{2}, {T}, Sacrifice an artifact or land: Draw a card.
+
+Off-Seer Flutes
+type: Legendary Artifact => Artifact
+
+Aion, Ultimate Artifice
+type: Artifact — Vehicle => Legendary Artifact — Vehicle
+rules_text: Whenever Aion deals combat damage to a player, destroy all permanents other than Aion.
+Crew 7 [i](Tap any number of creatures you control with total power 7 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever Aion deals combat damage to a player, destroy all permanents other than Aion.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Mediator's Urban added.

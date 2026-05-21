@@ -5,14 +5,14 @@
 			<name>XNB</name>
 			<longname>Xenoblade Chronicles Custom Magic: the Gathering Set</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-04</releasedate>
+			<releasedate>2026-05-20</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Rex, Master Driver</name>
 			<text>When Rex enters, search your library for a Blade card, reveal it, put it into your hand, then shuffle.
-You may target Rex, Master Driver with bond abilities as though it weren&apos;t bonded.</text>
+You may target Rex, Master Driver with bond abilities as though he weren&apos;t bonded.</text>
 			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/0.png" num="1">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -27,7 +27,7 @@ You may target Rex, Master Driver with bond abilities as though it weren&apos;t 
 		</card>
 		<card>
 			<name>Addam, Torna&apos;s Champion</name>
-			<text>Attacking and blocking Blades you control get +2/+2.
+			<text>Blades you control get +2/+2.
 At the beginning of each combat, creatures you control gain first strike until end of turn if a Blade you control has first strike. The same is true for deathtouch, double strike, flying, haste, hexproof, indestructible, lifelink, reach, menace, trample, and vigilance.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/1.png" num="2">XNB</set>
 			<prop>
@@ -64,7 +64,7 @@ At the beginning of each combat, creatures you control gain first strike until e
 		<card>
 			<name>Bitball Adept</name>
 			<text>Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
-Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness and is bonded. Bond only once per turn as a sorcery.)</text>
+Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness and is bonded. Bond only once each turn as a sorcery.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/3.png" num="5">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -97,9 +97,9 @@ Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;
 		</card>
 		<card>
 			<name>Cheerful Songbearer</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
-Pay 4 life: This creature gains indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/5.png" num="8">XNB</set>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+Chain Attack — Whenever this creature attacks, if you control three or more tapped creatures, tap up to one target creature or Vehicle.</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/5.png" num="8">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -114,19 +114,18 @@ Pay 4 life: This creature gains indestructible until end of turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Brilliant Ascension</name>
-			<text>Enchant permanent
-Fusion Art — When this Aura enters, if {G} was spent to cast it, enchanted permanent must be blocked this turn if able.
-Enchanted permanent has lifelink.
-As long as enchanted permanent is a creature, it gets +1/+2.</text>
+			<name>Bulwark Thudclang</name>
+			<text>Fusion Art — When this Equipment enters, if {G} was spent to cast it, create a 1/1 green Nopon creature token, then attach this equipment to it.
+Equipped creature gets +2/+4.
+Equip {2}</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/6.png" num="7">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>WG</coloridentity>
 			</prop>
@@ -186,9 +185,9 @@ Chain Attack — Whenever you attack, if you control three or more tapped creatu
 		</card>
 		<card>
 			<name>Energetic Zapmeister</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
-Chain Attack — Whenever this creature attacks, if you control three or more tapped creatures, tap up to one target creature or Vehicle.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/10.png" num="13">XNB</set>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+Pay 4 life: This creature gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/10.png" num="13">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -280,7 +279,7 @@ When this Siege enters, destroy up to one target artifact or enchantment. Gain 2
 		<card>
 			<name>Kino, Aspiring Heropon</name>
 			<text>Whenever another creature you control enters, you gain 1 life.
-{2}{W}: Target creature you control assigns combat damage equal to its toughness rather than its power this turn.</text>
+{2}{W}: Until end of turn, target creature you control assigns combat damage equal to its toughness rather than its power.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/14.png" num="17">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -291,7 +290,7 @@ When this Siege enters, destroy up to one target artifact or enchantment. Gain 2
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>0/2</pt>
+				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -385,7 +384,7 @@ When this creature enters, exile up to one target card from a graveyard.</text>
 		</card>
 		<card>
 			<name>Pandoria, Big Bang Blade</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 As long as it&apos;s your turn, Blades and bonded creatures you control have first strike.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/20.png" num="24">XNB</set>
 			<prop>
@@ -423,7 +422,7 @@ Whenever you gain life, put a +1/+1 counter on this creature.</text>
 			<name>Mediator&apos;s Urban</name>
 			<text>Fusion Art — This Vehicle enters with a flying counter on it if {U} was spent to cast it.
 When this Vehicle enters, create a 1/1 green Nopon creature token.
-Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 1</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/22.png" num="21">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -527,10 +526,7 @@ Whenever you gain life, put a +1/+1 counter on Sharla.</text>
 		</card>
 		<card>
 			<name>Soul Voice Aura</name>
-			<text>Choose two —
-• Gain 3 life.
-• Surveil 2.
-• Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
+			<text>Return target permanent you control to its owner&apos;s hand. Gain 3 life. Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/28.png" num="32">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -546,13 +542,13 @@ Whenever you gain life, put a +1/+1 counter on Sharla.</text>
 		</card>
 		<card>
 			<name>Stalwart Shield Hammer</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Vigilance</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/29.png" num="33">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Blade Warrior</type>
+				<type>Creature — Blade Knight</type>
 				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
@@ -598,8 +594,8 @@ At the beginning of each end step, if you lost life this turn, create a 1/1 gree
 		</card>
 		<card>
 			<name>Tantalese Cannon Blade</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
-As long as you gained or lost life this turn, this creature has flying.</text>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+This creature has flying as long as you gained or lost life this turn.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/32.png" num="34">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -636,7 +632,7 @@ When this creature enters, up to one target creature gains flying until end of t
 			<name>A Life Sent On</name>
 			<text>Kicker—Tap an untapped legendary creature you control. (You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)
 Exile up to two target creatures. For each creature exiled this way, its controller creates a 2/1 red Soldier creature token. If this spell was kicked, those tokens enter tapped with stun counters on them.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/34.png" num="56">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/34.png" num="55">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -651,25 +647,26 @@ Exile up to two target creatures. For each creature exiled this way, its control
 		</card>
 		<card>
 			<name>Alrest Historian</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
-Whenever this creature attacks, if an artifact you control entered this turn, surveil 2.</text>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+This creature gets +1/+1 for each noncreature spell you&apos;ve cast this turn.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/35.png" num="38">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Blade Shaman</type>
 				<maintype>Creature</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Argentum Entrepreneur</name>
-			<text>{1}, {T}: Draw a card, then discard a card.</text>
+			<text>{1}, {T}: Draw a card, then discard a card.
+{6}, {T}: Creatures you control gain flying until end of turn.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/36.png" num="40">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -686,7 +683,7 @@ Whenever this creature attacks, if an artifact you control entered this turn, su
 		</card>
 		<card>
 			<name>Brainjack</name>
-			<text>You may cast target instant, sorcery, or artifact card in an opponent&apos;s graveyard without paying it&apos;s mana cost.</text>
+			<text>You may cast target instant, sorcery, or artifact card from an opponent&apos;s graveyard without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/37.png" num="41">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -702,19 +699,19 @@ Whenever this creature attacks, if an artifact you control entered this turn, su
 		</card>
 		<card>
 			<name>Brighid, Jewel of the Empire</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
-Whenever this creature deals combat damage to a player, create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+Whenever this creature attacks, you may tap another untapped creature you control. If you do, this creature can&apos;t be blocked this turn.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/38.png" num="42">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Blade Noble</type>
 				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -738,9 +735,9 @@ Whenever this creature deals combat damage to a player, create an Ether token. (
 		</card>
 		<card>
 			<name>Proficient Outfitter</name>
-			<text>Fusion Art — When this creature enters, if {W} was spent to cast it, create two Ether tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)
-{6}, {T}: Creatures you control gain flying until end of turn.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/40.png" num="61">XNB</set>
+			<text>Flash
+Whenever another artifact you control enters, you may draw a card. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/40.png" num="62">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -749,15 +746,15 @@ Whenever this creature deals combat damage to a player, create an Ether token. (
 				<manacost>3U</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>3/4</pt>
+				<coloridentity>U</coloridentity>
+				<pt>1/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Cloud Sea King Ken</name>
-			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Whenever this creature becomes tapped, choose up to one target creature or artifact. If it&apos;s tapped, put a stun counter on it. Otherwise, tap it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<text>Ward {2}
+Whenever Cloud Sea King Ken becomes tapped, choose up to one target creature or artifact. If it&apos;s tapped, put a stun counter on it. Otherwise, tap it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/41.png" num="43">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -774,8 +771,7 @@ Whenever this creature becomes tapped, choose up to one target creature or artif
 		</card>
 		<card>
 			<name>Agnian Outpost</name>
-			<text>Ferronis — As long as this Vehicle is on the battlefield, its a land in addition to its other types.
-{T}: Add {U}. Spend this mana only to activate abilities.
+			<text>{T}: Add one mana of any color. Spend this mana only to activate abilities.
 {3}{U}, {T}: Target player mills two cards. You draw a card.
 Crew 7</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/42.png" num="37">XNB</set>
@@ -795,8 +791,8 @@ Crew 7</text>
 		<card>
 			<name>Decadent Heiress</name>
 			<text>Bond
-Whenever this creature becomes tapped, you may pay {1}{U}. If you do, exile all tokens you control with gold counters on them. Create a token that&apos;s a copy of this creature except it isn&apos;t legendary if this creature is legendary and put a gold counter on it.</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/43.png" num="45">XNB</set>
+Whenever this creature deals combat damage to a player, you may exile all tokens you control with gold counters on them. If you do, create a token that&apos;s a copy of this creature except it isn&apos;t legendary if this creature is legendary and put a gold counter on it.</text>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/43.png" num="44">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,7 +810,7 @@ Whenever this creature becomes tapped, you may pay {1}{U}. If you do, exile all 
 			<name>Defensive ONION</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 When this creature enters, create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/44.png" num="46">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/44.png" num="45">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -830,19 +826,19 @@ When this creature enters, create an Ether token. (It&apos;s an artifact with &q
 		</card>
 		<card>
 			<name>Dromarch, Nia&apos;s Liege</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Whenever this creature deals combat damage to a player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/45.png" num="48">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/45.png" num="47">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Cat Blade</type>
 				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/4</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -900,7 +896,7 @@ Fusion Art — {5}{U}{U}, Sacrifice this enchantment: Return up to three target 
 		</card>
 		<card>
 			<name>Final Cross</name>
-			<text>Fusion Art - Tap each creature opponents control. If {B} was spent to cast this spell, those creatures get -1/-1 until end of turn.</text>
+			<text>Fusion Art - Tap each creature your opponents control. If {B} was spent to cast this spell, those creatures get -1/-1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/49.png" num="51">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -916,9 +912,9 @@ Fusion Art — {5}{U}{U}, Sacrifice this enchantment: Return up to three target 
 		</card>
 		<card>
 			<name>Industrious Megalancer</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 {4}{U}: This creature can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/50.png" num="52">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/50.png" num="53">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -935,7 +931,7 @@ Fusion Art — {5}{U}{U}, Sacrifice this enchantment: Return up to three target 
 		<card>
 			<name>Diversion Tactics</name>
 			<text>Up to two target creatures get +1/+0 and can&apos;t be blocked this turn. Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/51.png" num="47">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/51.png" num="46">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -949,9 +945,9 @@ Fusion Art — {5}{U}{U}, Sacrifice this enchantment: Return up to three target 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Leftherian Seal</name>
+			<name>Egil&apos;s Rebuke</name>
 			<text>Counter target spell unless its controller pays {2}. Its controller mills two cards.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/52.png" num="55">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/52.png" num="48">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -965,10 +961,10 @@ Fusion Art — {5}{U}{U}, Sacrifice this enchantment: Return up to three target 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Kevesi Assassin</name>
+			<name>Moebius Assassin</name>
 			<text>Fusion Art — When this creature enters, if {R} was spent to cast it, it gains first strike and haste until end of turn.
 Whenever this creature becomes tapped, target player mills a card.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/53.png" num="54">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/53.png" num="59">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1003,7 +999,7 @@ Whenever this creature becomes tapped, target player mills a card.</text>
 		</card>
 		<card>
 			<name>Military Archelon</name>
-			<text>Whenever this creature becomes tapped, up to one target creature gets -3/-0 until end of turn.
+			<text>Whenever this creature attacks, you may tap two other untapped creatures you control. If you do, this creature can&apos;t be blocked this turn.
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/55.png" num="58">XNB</set>
 			<prop>
@@ -1015,15 +1011,15 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>5/4</pt>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Nia&apos;s Care</name>
+			<name>Merc Mission</name>
 			<text>Enchant creature
-Enchanted creature has &quot;{T}: Draw a card.&quot;</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/56.png" num="59">XNB</set>
+Enchanted creature has &quot;{T}: Surveil 1, then draw a card.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/56.png" num="56">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1055,11 +1051,10 @@ Whenever a creature or artifact you control becomes untapped, Nikol gets +1/+1 u
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Curator Excavator</name>
-			<text>Vigilance
-Whenever another artifact you control enters, this Vehicle becomes an artifact creature until end of turn.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/58.png" num="44">XNB</set>
+			<name>Flight-Ready Formula</name>
+			<text>Flying
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/58.png" num="52">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1069,7 +1064,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -1078,7 +1073,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<text>Fusion Art — If {B} was spent to cast this spell, each player mills three cards.
 Target player draws a card.
 Flashback—{4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/59.png" num="53">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/59.png" num="54">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1092,21 +1087,24 @@ Flashback—{4}{U} (You may cast this card from your graveyard for its flashback
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Rex, Apt Salvager</name>
-			<text>Fusion Art - {X}{U}, {T}: Choose target artifact card with mana value X or less in your graveyard. If {R}{W} was spent, you may choose target Blade card with mana value X or less in your graveyard instead. Return the chosen card to the battlefield with a finality counter on it. Activate only as a sorcery. (If a permanent with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/60.png" num="62">XNB</set>
+			<name>Overdrive</name>
+			<text>Whenever a creature you control becomes tapped, put an overdrive counter on this enchantment.
+Remove three overdrive counters from this enchantment: Choose one —
+• Create an Ether token
+• Draw a card, then discard a card.
+• Target creature gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/60.png" num="61">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Artificer Driver</type>
-				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
-				<coloridentity>WUR</coloridentity>
-				<pt>2/2</pt>
+				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Shredder Quo</name>
@@ -1146,7 +1144,8 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Shackle Arts</name>
-			<text>Counter target spell. Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
+			<text>Counter target spell.
+Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/63.png" num="63">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1163,7 +1162,7 @@ Draw a card.</text>
 		<card>
 			<name>Struggle at Spirit Crucible Elpys</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
-When this battle enters, return target creature to its owner&apos;s hand. Create a token that&apos;s a copy of that creature except it&apos;s an Illusion in addition to its other types.
+When this Siege enters, return target creature to its owner&apos;s hand. Create a token that&apos;s a copy of that creature except it&apos;s an Illusion in addition to its other types.
 ---
 (Back): The Third Aegis Sword</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/64_front.png" num="66a">XNB</set>
@@ -1221,7 +1220,7 @@ Abilities you activate cost {1} less to activate. This effect can&apos;t reduce 
 		</card>
 		<card>
 			<name>Trickster Blade</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Flying</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/66.png" num="67">XNB</set>
 			<prop>
@@ -1239,25 +1238,26 @@ Flying</text>
 		</card>
 		<card>
 			<name>Urayan Tactician</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
-This creature gets +1/+1 for each noncreature spell you have cast this turn.</text>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+Whenever this creature attacks, up to one target creature gets -3/-0 until end of turn.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/67.png" num="68">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Blade Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Winds of Time</name>
-			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library. Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
+			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library.
+Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/68.png" num="69">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1289,7 +1289,7 @@ This creature gets +1/+1 for each noncreature spell you have cast this turn.</te
 		</card>
 		<card>
 			<name>Arachno Pod</name>
-			<text>Fusion Art - When this creature enters, if {W} was spent to cast it, gain 2 life.
+			<text>Fusion Art - When this creature enters, if {W} was spent to cast it, gain 3 life.
 When this creature dies, create two 1/2 green Spider creature tokens with reach.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/70.png" num="72">XNB</set>
 			<prop>
@@ -1324,7 +1324,7 @@ When this creature dies, create two 1/2 green Spider creature tokens with reach.
 		<card>
 			<name>Bionis Slash</name>
 			<text>Target player mills X cards. Exile Bionis Slash with five time counters on it.
-At the beginning of your upkeep, if Bionis Slash is exiled, remove a time counter from it. When the last time counter is removed, exile target player&apos;s graveyard. Each opponent loses life equal to the number of creature cards exiled this way.</text>
+At the beginning of your upkeep, if Bionis Slash is exiled, remove a time counter from it. When the last time counter is removed, exile target player&apos;s graveyard. Each opponent loses X life where X is half the number of cards exiled this way rounded up.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/72.png" num="73">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1341,7 +1341,7 @@ At the beginning of your upkeep, if Bionis Slash is exiled, remove a time counte
 		<card>
 			<name>Black Tar</name>
 			<text>Kicker—Tap an untapped legendary creature you control. (You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)
-Exile target creature or Vehicle. If this spell was kicked, you may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.</text>
+Exile target creature or Vehicle. If this spell was kicked, each opponent loses 2 life and you gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/73.png" num="74">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1409,7 +1409,7 @@ Exile target creature or Vehicle. If this spell was kicked, you may play that ca
 		</card>
 		<card>
 			<name>Violent Blade</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)</text>
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness and is bonded. Bond only as a sorcery.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/77.png" num="102">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1438,7 +1438,7 @@ Whenever a creature dies or a creature card is put into a graveyard from a libra
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>6/6</pt>
+				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1528,14 +1528,14 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 				<cmc>7</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/5</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Malos, Aegis of Destruction</name>
 			<text>Bond
-Pay 2 life: This creature gains first strike and deathtouch until end of turn.
+Pay 2 life: This creature gains deathtouch until end of turn.
 Whenever this creature deals combat damage to a player, they lose half their life, rounded up.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/84.png" num="86">XNB</set>
 			<prop>
@@ -1593,7 +1593,7 @@ Fusion Art - {1}, {T}: Each player loses 2 life. If {U} was spent to activate th
 		<card>
 			<name>Milsaadi Assassin</name>
 			<text>Whenever this creature becomes tapped, each opponent loses 1 life and you gain 1 life.
-Whenever you lose life during your turn, put a +1/+1 counter on this creature.</text>
+At the beginning of your end step, if you lost life this turn, put a +1/+1 counter on this creature.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/87.png" num="90">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1611,7 +1611,7 @@ Whenever you lose life during your turn, put a +1/+1 counter on this creature.</
 		<card>
 			<name>Flame Clock</name>
 			<text>At the beginning of your upkeep, you lose 1 life and create a 2/1 red Soldier creature token.
-{1}{B}, {T}, Sacrifice another creature or artifact: You gain 1 life and draw a card. Activate only as a sorcery.</text>
+{1}{B}, {T}, Sacrifice another creature or artifact: You gain 1 life and draw a card.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/88.png" num="78">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1678,10 +1678,10 @@ Whenever a creature dies, target player mills a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Reconstruction Formula</name>
+			<name>Sagittarius Protector</name>
 			<text>Lifelink
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/92.png" num="95">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/92.png" num="96">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1727,7 +1727,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -1735,7 +1735,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Sadistic Operative</name>
 			<text>Fusion Art - When this creature enters, if {R} was spent to cast it, it deals damage to each opponent equal to the number of Vehicles you control.
 Whenever another artifact you control enters, target creature an opponent controls gets -1/-1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/95.png" num="96">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/95.png" num="95">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1770,7 +1770,7 @@ Whenever you gain life, each opponent loses 1 life.</text>
 		<card>
 			<name>Siege on the White Whale</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
-When this battle enters, each player sacrifices two creatures.
+When this Siege enters, each player sacrifices two creatures.
 ---
 (Back): The Lifehold Core</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/97_front.png" num="98a">XNB</set>
@@ -1846,7 +1846,7 @@ Draw three cards and lose 3 life.</text>
 			<name>Ares Prime</name>
 			<text>Flying, first strike, lifelink
 Whenever another Soldier or Vehicle you control dies, Ares Prime deals 1 damage to each opponent.
-Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 4</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/100.png" num="180">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1921,7 +1921,7 @@ Destroy target creature or planeswalker.</text>
 			<text>Flash
 Vigilance
 You may look at the top card of your library at any time.
-{T}: You may play the top card of your library.</text>
+{T}: Exile the top card of your library. You may play that card.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/104.png" num="36">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1938,8 +1938,8 @@ You may look at the top card of your library at any time.
 		</card>
 		<card>
 			<name>Ace Partisan Eagle</name>
-			<text>Awaken 4—{5}{R}{R} (When this enters, if you cast it for its awaken cost, put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
-Chain Attack — Whenever you attack, if you control three or more tapped creatures, this creature deals 1 damage to each opponent.</text>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature becomes tapped, it deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/105.png" num="106">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1950,14 +1950,13 @@ Chain Attack — Whenever you attack, if you control three or more tapped creatu
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ardainian Royal Guard</name>
-			<text>Awaken 3—{5}{R} (When this enters, if you cast it for its awaken cost, put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
-Fusion Art — When this creature enters, if {U} was spent to cast it, tap up to one target creature or artifact.</text>
+			<text>Fusion Art — When this creature enters, if {U} was spent to cast it, tap up to one target creature or artifact and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/106.png" num="107">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1993,7 +1992,7 @@ Fusion Art — When this creature enters, if {U} was spent to cast it, tap up to
 		<card>
 			<name>Battle for Sword Valley</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
-When this battle enters, create two 2/1 red Soldier creature tokens. Soldiers you control gain first strike and haste until end of turn.
+When this Siege enters, create two 2/1 red Soldier creature tokens. Soldiers you control gain first strike and haste until end of turn.
 ---
 (Back): Dunban, Hero of Homs</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/108_front.png" num="109a">XNB</set>
@@ -2002,7 +2001,7 @@ When this battle enters, create two 2/1 red Soldier creature tokens. Soldiers yo
 				<side>front</side>
 				<type>Battle — Siege</type>
 				<maintype>Battle</maintype>
-				<manacost>3RR</manacost>
+				<manacost>4R</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -2027,7 +2026,7 @@ Chain Attack — Whenever you attack, if you control three or more tapped creatu
 				<cmc>0</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/5</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Battle for Sword Valley</related>
@@ -2035,6 +2034,7 @@ Chain Attack — Whenever you attack, if you control three or more tapped creatu
 		<card>
 			<name>Skilled Stalker</name>
 			<text>Reach
+Fusion Art — When this creature enters, if {W} was spent to cast it, create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)
 {1}, {T}: This creature deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/109.png" num="134">XNB</set>
 			<prop>
@@ -2045,14 +2045,15 @@ Chain Attack — Whenever you attack, if you control three or more tapped creatu
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
-				<coloridentity>R</coloridentity>
+				<coloridentity>WR</coloridentity>
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Brawny Gogol</name>
-			<text>Awaken 5—{8}{R}{R} (When this enters, if you cast it for its awaken cost, put five +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
+			<text>Reach
+{T}, Sacrifice an artifact or land: This creature deals 2 damage to each opponent.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/110.png" num="112">XNB</set>
 			<prop>
@@ -2070,16 +2071,16 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		</card>
 		<card>
 			<name>Burning Sword</name>
-			<text>Awaken 4—{5}{R}{R} (If you cast this spell for its awaken cost, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
-Burning Sword deals 4 damage to target creature, planeswalker, or battle.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/111.png" num="113">XNB</set>
+			<text>This spell costs {2} less to cast if you control a bonded creature.
+Burning Sword deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/111.png" num="113">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -2120,7 +2121,7 @@ Whenever a creature you control becomes tapped, it gets +1/+0 until end of turn.
 		</card>
 		<card>
 			<name>Exciteable Signifier</name>
-			<text>Fusion Art - When this creature enters, if {W} was spent to cast it, target creature gains indestructible until end of turn.
+			<text>Fusion Art - When this creature enters, if {B} was spent to cast it, target creature or Vehicle gains indestructible until end of turn.
 At the beginning of combat on your turn, target creature gets +1/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/114.png" num="115">XNB</set>
 			<prop>
@@ -2131,7 +2132,7 @@ At the beginning of combat on your turn, target creature gets +1/+0 until end of
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
-				<coloridentity>WR</coloridentity>
+				<coloridentity>BR</coloridentity>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -2174,7 +2175,7 @@ Fists of the End deals X damage to any target.</text>
 		</card>
 		<card>
 			<name>Glimmer, Prolific Kitharode</name>
-			<text>Chain Attack — Whenever you attack, if you control three or more tapped creatures, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+			<text>Whenever this creature becomes tapped, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
 {R}: Glimmer gets +1/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/117.png" num="118">XNB</set>
 			<prop>
@@ -2192,7 +2193,7 @@ Fists of the End deals X damage to any target.</text>
 		</card>
 		<card>
 			<name>Greataxe Crusher</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Menace</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/118.png" num="119">XNB</set>
 			<prop>
@@ -2229,10 +2230,9 @@ As long as you control a land creature, this creature has flying.</text>
 		</card>
 		<card>
 			<name>Kevesi Colony</name>
-			<text>Ferronis — As long as this Vehicle is on the battlefield, its a land in addition to its other types.
-Fusion Art — This Vehicle enters with a trample counter on it if {G} was spent to cast it.
+			<text>Awaken 6—{6}{R}{R} (When this enters, if you cast it for its awaken cost, put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
 {T}: Add {R}.
-Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 6</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/120.png" num="122">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2242,15 +2242,15 @@ Crew 6 (Tap any number of creatures you control with total power 6 or more: This
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
-				<coloridentity>RG</coloridentity>
-				<pt>7/7</pt>
+				<coloridentity>R</coloridentity>
+				<pt>7/8</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Lin, BLADE Prodigy</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever Lin becomes tapped, exile the top card of your library. If this is the second time this ability has resolved this turn, you may cast that card without paying its mana cost. Otherwise, you may play that card until the end of your next turn.</text>
+Whenever Lin becomes tapped, exile the top card of your library. If this is the second time this ability has resolved this turn, you may cast that card without paying its mana cost. Otherwise, you may play that card until your next end step.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/121.png" num="198">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2322,7 +2322,7 @@ Equip {7}. This ability costs {1} less for each other legendary permanent you co
 			<name>Tetsudo Levnis</name>
 			<text>Haste
 When this creature enters, it becomes an artifact creature until end of turn.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/125.png" num="137">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2333,13 +2333,13 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Mobile Artillery</name>
-			<text>Haste
+			<text>Trample, haste
 {1}, Sacrifice this Vehicle: Destroy target artifact.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/126.png" num="127">XNB</set>
@@ -2376,18 +2376,17 @@ Whenever Mòrag becomes tapped, she deals 1 damage to any target.</text>
 		</card>
 		<card>
 			<name>Power Spike</name>
-			<text>This spell costs {2} less to cast if a Vehicle you control attacked this turn.
-Power Spike deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/128.png" num="130">XNB</set>
+			<text>Fusion Art — Power Spike deals 4 damage to target creature, battle, or planeswalker. If {G} was spent to cast it, surveil X, where X is the amount of excess damage dealt.</text>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/128.png" num="130">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
-				<coloridentity>R</coloridentity>
+				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -2409,7 +2408,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 		</card>
 		<card>
 			<name>Prospectors Amdusias</name>
-			<text>Whenever this Vehicle becomes tapped during your turn, create a Treasure token.
+			<text>Whenever this Vehicle becomes tapped, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/130.png" num="131">XNB</set>
 			<prop>
@@ -2444,7 +2443,8 @@ Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quo
 		</card>
 		<card>
 			<name>Resolute Harriers</name>
-			<text>Fusion Art — When this creature enters, create a 2/1 red Soldier creature token. Then if {B} was spent to cast it, Soldiers you control gain &quot;Whenever this creature becomes tapped, each opponent loses 1 life.&quot; until end of turn.</text>
+			<text>When this creature enters, create a 2/1 red Soldier creature token.
+Chain Attack — Whenever you attack, if you control three or more tapped creatures, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/132.png" num="133">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2454,14 +2454,14 @@ Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quo
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
-				<coloridentity>BR</coloridentity>
+				<coloridentity>R</coloridentity>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Soul Voice Power</name>
-			<text>Fusion Art - Target creature gets +3/+0 and gains first strike until end of turn. If {G} was spent to cast this spell, that creature also gains trample until end of turn.</text>
+			<text>Fusion Art — Target creature gets +3/+0 and gains first strike until end of turn. If {G} was spent to cast this spell, that creature also gains trample until end of turn.</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/133.png" num="135">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2477,7 +2477,7 @@ Draw two cards and create two Treasure tokens. (They&apos;re artifacts with &quo
 		</card>
 		<card>
 			<name>Starstruck Firecracker</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Chain Attack — Whenever this creature attacks, if you control three or more creatures, it gets +1/+0 and gains trample until end of turn.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/134.png" num="136">XNB</set>
 			<prop>
@@ -2489,7 +2489,7 @@ Chain Attack — Whenever this creature attacks, if you control three or more cr
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2583,8 +2583,7 @@ You Will Know Our Names deals 2 damage to each creature. If it was kicked, it in
 		</card>
 		<card>
 			<name>Bana, Argentum Kingpin</name>
-			<text>This spell costs {1} less for each creature that died this turn.
-Fusion Art — Bana enters with X +1/+1 counters on him. He also enters with a menace counter on him if {B} was spent to cast him.
+			<text>Fusion Art — Bana enters with X +1/+1 counters on him. If {B} was spent to cast him, he enters with an additional +1/+1 counter on him for each creature that died this turn.
 {1}{G}, Sacrifice another creature or artifact: Bana gains hexproof until end of turn. Tap it.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/140.png" num="143">XNB</set>
 			<prop>
@@ -2617,22 +2616,21 @@ Fusion Art — Bana enters with X +1/+1 counters on him. He also enters with a m
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Ether Channel</name>
-			<text>Awaken 4—{4}{G}{G} (When this enters, if you cast it for its awaken cost, put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
-Enchant land
-Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/142.png" num="152">XNB</set>
+			<name>Collectopaedia Card</name>
+			<text>Create a Food token, a Treasure token, and an Ether token. (An Ether token is an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)
+Draw a card.</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/142.png" num="147">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Coiling Aspar</name>
@@ -2656,7 +2654,7 @@ Enchanted land has &quot;{T}: Add two mana of any one color.&quot;</text>
 			<name>Defend the Caravan!</name>
 			<text>Fusion Art — If {U} was spent to cast this spell, create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)
 Target creature gets +4/+4 until end of turn.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/144.png" num="148">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/144.png" num="149">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2672,10 +2670,10 @@ Target creature gets +4/+4 until end of turn.</text>
 		<card>
 			<name>Defense of Gran Dell</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
-When this battle enters, creatures you control get +2/+2 and gain trample until end of turn.
+When this Siege enters, creatures you control get +2/+2 and gain trample until end of turn.
 ---
 (Back): The Fog King</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/145_front.png" num="149a">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/145_front.png" num="150a">XNB</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2696,7 +2694,7 @@ When this battle enters, creatures you control get +2/+2 and gain trample until 
 At the beginning of each upkeep, put a +1/+1 counter on The Fog King.
 ---
 (Front): Defense of Gran Dell</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/145_back.png" num="149b">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/145_back.png" num="150b">XNB</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2716,7 +2714,7 @@ At the beginning of each upkeep, put a +1/+1 counter on The Fog King.
 			<text>Trample
 When this creature enters, gain 3 life.
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/146.png" num="150">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/146.png" num="151">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2734,7 +2732,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>Dickson, Enigmatic Nomad</name>
 			<text>Awaken 10—{3}{G}{G}{G}, Sacrifice a creature
 When Dickson enters, you may search your library for a creature or planeswalker card with mana value less than or equal to the greatest power among other creatures you control, reveal that card, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/147.png" num="151">XNB</set>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/147.png" num="152">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2788,7 +2786,7 @@ Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;
 			<name>Lao, Avenger of Earth</name>
 			<text>Awaken X—{X}{R}{G}{G} (When this enters, if you cast it for its awaken cost, put X +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
 Reach
-Whenever a land creature you control dies, return it to its owner&apos;s hand. If it had counters on it, put those counters on Lao.</text>
+Whenever a land creature you control dies, put X +1/+1 counters on Lao where X is that creature&apos;s power.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/150.png" num="197">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2799,14 +2797,14 @@ Whenever a land creature you control dies, return it to its owner&apos;s hand. I
 				<cmc>2</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>3/1</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Metal Blast</name>
 			<text>Fusion Art — Destroy up to one target artifact, enchantment, or creature with flying. If {R} was spent to cast this spell, Metal Blast deals 2 damage to that permanent&apos;s controller.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/151.png" num="157">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/151.png" num="158">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2821,9 +2819,9 @@ Whenever a land creature you control dies, return it to its owner&apos;s hand. I
 		</card>
 		<card>
 			<name>Mia Pippito</name>
-			<text>When Mia Pippito enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+			<text>Fusion Art — When this creature enters, if {B} was spent to cast it, surveil 2.
 {T}: You may put a land card from your hand onto the battlefield.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/152.png" num="158">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/152.png" num="159">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2832,18 +2830,17 @@ Whenever a land creature you control dies, return it to its owner&apos;s hand. I
 				<manacost>1G</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
-				<coloridentity>G</coloridentity>
+				<coloridentity>BG</coloridentity>
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Monado Enchant</name>
-			<text>Enchant permanent
-Awaken 1—{3}{G} (When this enters, if you cast it for its awaken cost, put a +1/+1 counter on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
-As long as enchanted permanent is a creature, it gets +3/+3.
-When enchanted permanent dies, if it was a land, return it to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/153.png" num="159">XNB</set>
+			<text>Enchant creature, artifact, or land
+As long as enchanted permanent is a creature, it gets +2/+2.
+Enchanted permanent has &quot;{T}: Add two mana of any one color.&quot;</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/153.png" num="160">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2857,10 +2854,10 @@ When enchanted permanent dies, if it was a land, return it to its owner&apos;s h
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Nene, Reliable Sister</name>
+			<name>Nene, Reliable Sisterpon</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Whenever a token you control enters, put a +1/+1 counter on Nene.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/154.png" num="160">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/154.png" num="161">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2870,35 +2867,33 @@ Whenever a token you control enters, put a +1/+1 counter on Nene.</text>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Overeager Curator</name>
-			<text>Fusion Art — When this creature enters, if {B} was spent to cast it, surveil 2.
-{3}{G}, {T}: Look at the top two cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest in your graveyard.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/155.png" num="161">XNB</set>
+			<name>Nopon Archeologist</name>
+			<text>When this creature enters, you may mill three cards. Put a +1/+1 counter on this creature for each creature card in your graveyard.</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/155.png" num="162">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Human Scout</type>
+				<type>Creature — Nopon</type>
 				<maintype>Creature</maintype>
 				<manacost>4G</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>4/5</pt>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Survivalist Colony</name>
-			<text>Ferronis — As long as this Vehicle is on the battlefield, its a land in addition to its other types.
-Vigilance
-{T}, Tap an untapped creature or artifact you control: Add one mana of any color.
-Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/156.png" num="167">XNB</set>
+			<text>Vigilance
+{T}, Tap an untapped permanent you control: Add one mana of any color.
+Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/156.png" num="168">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2908,7 +2903,7 @@ Crew 6 (Tap any number of creatures you control with total power 6 or more: This
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/8</pt>
+				<pt>4/9</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -2916,7 +2911,7 @@ Crew 6 (Tap any number of creatures you control with total power 6 or more: This
 			<name>Plucky Small-Frypon</name>
 			<text>Awaken 4—{5}{G}{G} (When this enters, if you cast it for its awaken cost, put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
 Creatures you control with +1/+1 counters on them have trample.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/157.png" num="163">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/157.png" num="164">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2934,7 +2929,7 @@ Creatures you control with +1/+1 counters on them have trample.</text>
 			<name>Search for the Lifehold</name>
 			<text>Whenever a creature you control dies, mill X cards where X is that creature&apos;s power. Then, once per turn you may return a land card from your graveyard to your hand.
 {6}{G}{G}, Exile Search for the Lifehold: Return any number of creature and/or land cards from your graveyard to your hand, then shuffle your graveyard into your library.</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/158.png" num="164">XNB</set>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/158.png" num="165">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2950,8 +2945,9 @@ Creatures you control with +1/+1 counters on them have trample.</text>
 		<card>
 			<name>Shulk and Fiora</name>
 			<text>Kicker—Tap an untapped legendary creature you control. (You may tap an untapped legendary creature you control in addition to any other costs as you cast this spell.)
-Return up to two target cards from your graveyard to your hand. If this spell was kicked, return up to one land card from your graveyard to the battlefield. Exile Shulk and Fiora.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/159.png" num="165">XNB</set>
+Return up to two target cards from your graveyard to your hand. If this spell was kicked, return up to one land card from your graveyard to the battlefield.
+Exile Shulk and Fiora.</text>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/159.png" num="166">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2966,8 +2962,9 @@ Return up to two target cards from your graveyard to your hand. If this spell wa
 		</card>
 		<card>
 			<name>Soul Voice Melee</name>
-			<text>Put a +1/+1 counter on target creature you control. It fights up to one target creature you don&apos;t control. Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/160.png" num="166">XNB</set>
+			<text>Put a +1/+1 counter on target creature you control. It fights up to one target creature you don&apos;t control.
+Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/160.png" num="167">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2981,29 +2978,26 @@ Return up to two target cards from your graveyard to your hand. If this spell wa
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Traders Ferronis</name>
-			<text>Ferronis — As long as this Vehicle is on the battlefield, it&apos;s a land in addition to its other types.
-Land creatures you control can&apos;t be blocked by more than one creature.
-{T}: Add {G}.
-Crew 7</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/161.png" num="170">XNB</set>
+			<name>Kallian&apos;s Intervention</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {1}.
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/161.png" num="156">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact — Vehicle</type>
-				<maintype>Artifact</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>7/7</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Immovable Gonzalez</name>
-			<text>Trample, Ward {3}
-Immovable Gonzalez enters tapped with eight minus X stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+			<text>Trample, ward {2}
+Immovable Gonzalez enters tapped with eight stun counters on it. Untap it X times. (If a permanent with a stun counter would become untapped, remove one from it instead.)
 Landfall — Whenever a land you control enters, create an Ether token.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/162.png" num="155">XNB</set>
 			<prop>
@@ -3021,11 +3015,12 @@ Landfall — Whenever a land you control enters, create an Ether token.</text>
 		</card>
 		<card>
 			<name>The Conduit War</name>
-			<text>Search your library for a land card and put it onto the battlefield. Shuffle your library.
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Search your library for a land card and put it onto the battlefield. Shuffle your library.
 You may have target creature you control fight another target creature.
 Noncreature permanents you don&apos;t control phase out.
 IV — If this enchantment isn&apos;t a token, create two tokens that are copies of it.</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/163.png" num="147">XNB</set>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/163.png" num="148">XNB</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3042,7 +3037,7 @@ IV — If this enchantment isn&apos;t a token, create two tokens that are copies
 			<name>Tirkin Archer</name>
 			<text>Reach
 When this creature enters, create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/164.png" num="168">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/164.png" num="169">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3061,7 +3056,7 @@ When this creature enters, create an Ether token. (It&apos;s an artifact with &q
 			<text>{T}, Tap an untapped creature or artifact you control: Add one mana of any color.
 {G}, {T}: Put a +1/+1 counter on another target tapped permanent you control.
 Fusion Art — {1}{G}, {T}: Target creature with a +1/+1 counter on it gains trample until end of turn. If {W} was spent, create an Ether token.</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/165.png" num="169">XNB</set>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/165.png" num="170">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3079,8 +3074,8 @@ Fusion Art — {1}{G}, {T}: Target creature with a +1/+1 counter on it gains tra
 			<name>Leone Telethia</name>
 			<text>As long as this creature is untapped, it has hexproof.
 This creature can&apos;t be blocked by creatures with power X or less where X is the number of creature cards exiled with this creature.
-Whenever this creature becomes tapped, exile up to one target card from a graveyard.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/166.png" num="156">XNB</set>
+Whenever this creature becomes tapped, exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/166.png" num="157">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3098,7 +3093,7 @@ Whenever this creature becomes tapped, exile up to one target card from a gravey
 			<name>Union Strike</name>
 			<text>Choose one —
 • Create twelve 1/1 green Nopon creature tokens.
-• Target creature gets +12/+12 until end of turn. All creatures able to block that creature this turn do so.
+• Target creature gets +12/+12 and gains trample until end of turn. All creatures able to block that creature this turn do so.
 • Draw cards equal to the total power among creatures you control.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/167.png" num="171">XNB</set>
 			<prop>
@@ -3115,8 +3110,9 @@ Whenever this creature becomes tapped, exile up to one target card from a gravey
 		</card>
 		<card>
 			<name>Frontier Chieftan</name>
-			<text>Other Nopon you control get +1/+1.
-Landfall — Whenever a land you control enters, create a 1/1 green Nopon creature token.</text>
+			<text>Haste
+Other Nopon you control get +1/+1.
+{1}{G}, {T}: Create a 1/1 green Nopon creature token.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/168.png" num="153">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3133,7 +3129,8 @@ Landfall — Whenever a land you control enters, create a 1/1 green Nopon creatu
 		</card>
 		<card>
 			<name>Visions of Morytha</name>
-			<text>Return target permanent card from your graveyard to your hand. Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
+			<text>Return target permanent card from your graveyard to your hand.
+Create an Ether token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/169.png" num="174">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3149,9 +3146,9 @@ Landfall — Whenever a land you control enters, create a 1/1 green Nopon creatu
 		</card>
 		<card>
 			<name>Phonex Interpreter</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 {G}, {T}: Choose {W}, {U}, {B}, or {R}. Add X mana of the chosen color, where X is this creature&apos;s power.</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/170.png" num="162">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/170.png" num="163">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3169,7 +3166,7 @@ Landfall — Whenever a land you control enters, create a 1/1 green Nopon creatu
 			<name>Zeke, Bringer of Chaos</name>
 			<text>Fusion Art — You may cast Zeke, Bringer of Chaos as though it had flash if {W} was spent to cast it.
 When Zeke, Bringer of Chaos enters put a +1/+1 counter on up to three target creatures.
-When Zeke, Bringer of Chaos leaves the battlefield, double the number of +1/+1 counters on each creature you control.</text>
+When Zeke, Bringer of Chaos dies, double the number of +1/+1 counters on each creature you control.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/171.png" num="175">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3212,7 +3209,7 @@ If this creature would deal combat damage to a player, it deals double that dama
 			<text>{R}: Transform Mythra, Light of the Aegis. Activate only as a sorcery.
 Bond
 First strike, ward {2}
-Whenever this creature attacks, put a +1/+1 counter on each creature you control.
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on each other creature you control.
 ---
 (Front): Pyra, Embers of the Aegis</text>
 			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/172_back.png" num="132b">XNB</set>
@@ -3246,7 +3243,7 @@ Whenever this creature attacks, put a +1/+1 counter on each creature you control
 				<cmc>4</cmc>
 				<colors>WRG</colors>
 				<coloridentity>WRG</coloridentity>
-				<loyalty>3</loyalty>
+				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -3260,19 +3257,19 @@ Whenever Amalthus becomes bonded, you may sacrifice a Blade. If you do, he can&a
 				<side>front</side>
 				<type>Legendary Creature — Indoline Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>3WUB</manacost>
-				<cmc>6</cmc>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
 				<colors>WUB</colors>
 				<coloridentity>WUB</coloridentity>
-				<pt>6/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Building Origin</name>
 			<text>I — Create an Ether token for each creature you control. 
-II — Tap any number of target creatures and put stun counters on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-III — This enchantment deals 5 damage to each untapped creature.</text>
+II — Tap any number of target creatures. Put a stun counter on each creature tapped this way.
+III — This enchantment deals 5 damage to each tapped creature.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/175.png" num="182">XNB</set>
 			<prop>
 				<layout>saga</layout>
@@ -3342,7 +3339,7 @@ When Elma attacks, if it&apos;s an artifact, untap all artifacts you control. El
 		</card>
 		<card>
 			<name>Eunie, Ouroboros Medic</name>
-			<text>At the beginning of each end step, put X +1/+1 counters on target creature and target player gains X life, where X is the number of tokens you created this turn.
+			<text>Whenever you create one or more tokens for the first time each turn, draw a card and gain 1 life.
 When creatures you both own and control named Eunie, Ouroboros Medic and Taion, Ouroboros Tactician attack, you may exile them, then meld them into Eunie&apos;s Ouroboros. It enters tapped and attacking.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/179.png" num="187">XNB</set>
 			<prop>
@@ -3362,7 +3359,7 @@ When creatures you both own and control named Eunie, Ouroboros Medic and Taion, 
 			<name>Fan la Norne, Devoted Priest</name>
 			<text>Flash
 When Fan la Norne enters, you may activate bond abilities of creatures you control any time you could cast an instant and as though those creatures had haste until end of turn.
-Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness to its own and becomes bonded. Bond only once per turn as a sorcery.)</text>
+Bond</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/180.png" num="188">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3471,9 +3468,8 @@ Blades and bonded creatures you control get +1/+1.</text>
 		</card>
 		<card>
 			<name>Interceptor Lailah</name>
-			<text>Menace
-Chain Attack — Whenever you attack, if you control three or more tapped creatures, create two 2/1 red Soldier creature tokens that are tapped and attacking.
-Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<text>Chain Attack — Whenever you attack, if you control three or more tapped creatures, create two 2/1 red Soldier creature tokens that are tapped and attacking.
+Crew 4</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/186.png" num="120">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3484,13 +3480,13 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>8/6</pt>
+				<pt>8/8</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Jin, Avenger of Torna</name>
-			<text>Vigilance, first strike
+			<text>First strike, vigilance
 If your life total is 10 or less, you may cast Jin, Avenger of Torna from your graveyard. If you do, he enters with a finality counter on him. (If a creature with a finality counter on it would die, exile it instead.)</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/187.png" num="195">XNB</set>
 			<prop>
@@ -3545,7 +3541,7 @@ Vigilance, haste
 		<card>
 			<name>Argentum Chairman</name>
 			<text>Vigilance
-{1}{U}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{1}{U}, {T}: Surveil 2.
 {X}{G}, {T}, Exile a card with mana value X from your graveyard: Put X +1/+1 counters on target creature. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/190.png" num="181">XNB</set>
 			<prop>
@@ -3563,8 +3559,9 @@ Vigilance, haste
 		</card>
 		<card>
 			<name>M, Moebius Defector</name>
-			<text>When M, Moebius Defector enters, exchange control of it and target creature an opponent controls.
-At the beginning of your upkeep put a +1/+1 counter on M, Moebius Defector, then mill a card for each +1/+1 counter on M.
+			<text>When M enters, exchange control of her and target creature an opponent controls.
+M, Moebius Defector can&apos;t block.
+At the beginning of your upkeep put a +1/+1 counter on M, Moebius Defector, then mill X cards where X is her power.
 If M, Moebius Defector would leave the battlefield, exile it instead.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/191.png" num="199">XNB</set>
 			<prop>
@@ -3582,8 +3579,7 @@ If M, Moebius Defector would leave the battlefield, exile it instead.</text>
 		</card>
 		<card>
 			<name>M71 Flex Unit</name>
-			<text>Flash
-Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
 When this creature enters, return target nonland permanent to its owner&apos;s hand, then that player discards a card.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/192.png" num="200">XNB</set>
 			<prop>
@@ -3591,18 +3587,17 @@ When this creature enters, return target nonland permanent to its owner&apos;s h
 				<side>front</side>
 				<type>Artifact Creature — Mechon Scout</type>
 				<maintype>Creature</maintype>
-				<manacost>5UB</manacost>
-				<cmc>7</cmc>
+				<manacost>6UB</manacost>
+				<cmc>8</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Matthew, Ouroboros Brawler</name>
-			<text>Double strike
-{T}: Add one mana of any color.
+			<text>{T}: Add one mana of any color.
 This creature gets +1/+0 for each color of mana you spent to cast spells this turn.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/193.png" num="201">XNB</set>
 			<prop>
@@ -3620,7 +3615,7 @@ This creature gets +1/+0 for each color of mana you spent to cast spells this tu
 		</card>
 		<card>
 			<name>Mikhail, Tornan Romantic</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Whenever this creature attacks, you may draw a card and lose 2 life. If you don&apos;t, gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/194.png" num="202">XNB</set>
 			<prop>
@@ -3639,25 +3634,26 @@ Whenever this creature attacks, you may draw a card and lose 2 life. If you don&
 		<card>
 			<name>Mio, Ouroboros Zephyr</name>
 			<text>Interlink with Noah, Ouroboros Off-Seer (You can have both creatures be your commanders. Melds with that creature.)
-Whenever Mio deals combat damage to a player, look at the top X cards of your library where X is the number of tapped creatures you control. Put one of those cards into your hand and the rest on the bottom of your library in a random order.</text>
+Vigilance
+Whenever Mio becomes the target of a spell or ability you control for the first time each turn, draw a card.</text>
 			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/195.png" num="203">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Blade Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>2WU</manacost>
-				<cmc>4</cmc>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Monica, City Vanguard</name>
 			<text>Tapped creatures you control get +1/+0 and have first strike.
-Untapped creatures you control get +0/+1 and have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Untapped creatures you control get +0/+1 and have ward {1}.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/196.png" num="204">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3693,7 +3689,7 @@ Whenever a creature an opponent controls dies, put a +1/+1 counter on N, Moebius
 		</card>
 		<card>
 			<name>Nia, Awakened Flower</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond
 Lifelink
 Chain Attack — Whenever this creature attacks, if you control three or more tapped creatures, prevent all damage that would be dealt to this creature until end of turn.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/198.png" num="206">XNB</set>
@@ -3730,7 +3726,7 @@ Whenever creatures you both own and control named Noah, Ouroboros Off-Seer and M
 		</card>
 		<card>
 			<name>Pneuma, Life Aegis</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 First strike, flying, trample, vigilance, haste, ward {2}</text>
 			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/200.png" num="209">XNB</set>
 			<prop>
@@ -3748,7 +3744,7 @@ First strike, flying, trample, vigilance, haste, ward {2}</text>
 		</card>
 		<card>
 			<name>Poppi a, Artificial Masterpiece</name>
-			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once per turn as a sorcery.)
+			<text>Bond ({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
 Whenever this creature attacks, other Drivers, Blades, and Nopon you control get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/201.png" num="27">XNB</set>
 			<prop>
@@ -3760,7 +3756,7 @@ Whenever this creature attacks, other Drivers, Blades, and Nopon you control get
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3784,7 +3780,7 @@ Other Soldiers you control crew vehicles as though their power was 1 greater.</t
 		</card>
 		<card>
 			<name>Puera Telethia</name>
-			<text>Whenever a creature you control dies, search your library for a basic land card, put it onto your battlefield tapped, then shuffle. This ability only triggers once each turn.</text>
+			<text>Whenever this creature or another creature you control dies, search your library for a basic land card, put it onto your battlefield tapped, then shuffle. This ability only triggers once each turn.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/203.png" num="211">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3878,7 +3874,7 @@ When creatures you both own and control named Sena, Ouroboros Ogre and Lanz, Our
 		<card>
 			<name>Shulk, Heir to the Monado</name>
 			<text>Vision — When Shulk enters and at the beginning of your upkeep, each player exiles the top card of their library. Until your next turn, each player may play the card they exiled this way. Then choose a number between 0 and 10.
-Change the Future — Spells opponents cast with mana value equal to the last chosen number cost {2} more to cast.</text>
+Change the Future — Spells opponents cast with mana value equal to the last chosen number cost {4} more to cast.</text>
 			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/208.png" num="216">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3895,8 +3891,7 @@ Change the Future — Spells opponents cast with mana value equal to the last ch
 		</card>
 		<card>
 			<name>Solidum Telethia</name>
-			<text>Flying
-As long as its untapped, this creature has hexproof.
+			<text>As long as its untapped, this creature has hexproof.
 When this creature enters, exile up to two target cards from graveyards.
 Whenever a card leaves your graveyard, create a 3/3 black and green Telethia creature token with &quot;As long as its untapped, this creature has hexproof.&quot;</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/209.png" num="217">XNB</set>
@@ -3934,7 +3929,7 @@ Whenever a card leaves your graveyard, create a 3/3 black and green Telethia cre
 		<card>
 			<name>Telethia, the Endbringer</name>
 			<text>Flying, trample
-Telethia, the Endbringer&apos;s power is equal to the total number of creature cards and land cards in all graveyards and in exile.
+As long as this creature is untapped, it has hexproof.
 Sacrifice a creature or land: Draw a card.
 When Telethia, the Endbringer is put into a graveyard from anywhere, shuffle it into its owner&apos;s library.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/211.png" num="219">XNB</set>
@@ -3947,7 +3942,7 @@ When Telethia, the Endbringer is put into a graveyard from anywhere, shuffle it 
 				<cmc>9</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>*/8</pt>
+				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4008,18 +4003,18 @@ Ethers you control have &quot;{T}, Sacrifice this artifact: Untap target creatur
 			<name>Nimble Hraesvelg</name>
 			<text>Flying, haste
 At the beginning of combat on your turn, untap up to one target creature that crewed this Vehicle this turn. That creature gains your choice of flying or haste until end of turn.
-Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 1</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/215.png" num="207">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Vehicle</type>
 				<maintype>Artifact</maintype>
-				<manacost>1UR</manacost>
-				<cmc>3</cmc>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -4061,18 +4056,16 @@ Crew 1</text>
 		</card>
 		<card>
 			<name>Z, Origin Usurper</name>
-			<text>You can&apos;t play lands.
-At the beginning of your upkeep, exile a land you control. Then return up to three land cards from graveyards to the battlefield under your control.
-Lands you control have indestructible.
-{4}, Discard a land card: Target land you control becomes a 3/3 artifact creature with haste. It&apos;s still a land.</text>
+			<text>{1}: Exile target card from a graveyard.
+At the beginning of your end step, each player mills two cards. Then each opponent chooses a creature card in their graveyard. Return those cards to the battlefield under your control with a finality counter on them.</text>
 			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/218.png" num="221">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Avatar God</type>
 				<maintype>Creature</maintype>
-				<manacost>1BGU</manacost>
-				<cmc>4</cmc>
+				<manacost>2BGU</manacost>
+				<cmc>5</cmc>
 				<colors>UBG</colors>
 				<coloridentity>UBG</coloridentity>
 				<pt>5/5</pt>
@@ -4109,8 +4102,8 @@ Lands you control have indestructible.
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>3</manacost>
-				<cmc>3</cmc>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -4276,7 +4269,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Mastema Reaper</name>
 			<text>Pay 2 life: This Vehicle becomes an artifact creature until end of turn.
 Whenever an artifact creature you control deals combat damage to a player, each player mills that many cards.
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 2</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/231.png" num="88">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4413,7 +4406,7 @@ When this land enters, you gain 1 life.
 {2}, {T}: Put a brick counter on this land.
 {T}: Add one mana of any color. Activate only if this land has a brick counter on it.
 Exhaust — {W}{U}{B}{R}{G}: Draw three cards. (Activate each exhaust ability only once.)</text>
-			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/239.png" num="248">XNB</set>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/239.png" num="248">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4527,8 +4520,7 @@ When this land enters, you gain 1 life.
 			<name>Keves Castle</name>
 			<text>Keves Castle enters tapped.
 {T}: Add {B} or {R}.
-{2}{B}{R}, Tap any number of creatures you control with total power 5 or more: Keves Castle becomes an artifact creature until end of turn. It&apos;s still a land.
-Trample
+{B}{R}, Tap any number of creatures you control with total power 4 or more: Keves Castle becomes an artifact creature until end of turn. It&apos;s still a land.
 Whenever Keves Castle attacks, create a 2/1 red Soldier creature token.</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/246.png" num="254">XNB</set>
 			<prop>
@@ -4564,7 +4556,7 @@ Whenever Mor Ardain attacks, create an Ether token.</text>
 		<card>
 			<name>New Los Angeles</name>
 			<text>{T}: Add one mana of any color that a land a player controls could produce.</text>
-			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/248.png" num="257">XNB</set>
+			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/248.png" num="257">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4682,7 +4674,7 @@ When this land enters, you gain 1 life.
 			<name>The City</name>
 			<text>The City enters tapped.
 {T}: Add {R} or {W}.
-{R}{W}, Tap any number of creatures you control with total power 2 or more: The City becomes an artifact creature until end of turn. It&apos;s still a land.
+{R}{W}, Tap any number of creatures you control with total power 1 or more: The City becomes an artifact creature until end of turn. It&apos;s still a land.
 Hexproof, flying</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/255.png" num="247">XNB</set>
 			<prop>
@@ -4786,7 +4778,7 @@ When this land enters, you gain 1 life.
 		<card>
 			<name>Ether XNB</name>
 			<text>{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/261.png" num="8">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/261.png" num="10">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4801,7 +4793,7 @@ When this land enters, you gain 1 life.
 		<card>
 			<name>Soldier XNB</name>
 			<text></text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/262.png" num="3">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/262.png" num="5">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4820,7 +4812,7 @@ When this land enters, you gain 1 life.
 			<name>Mondo XNB</name>
 			<text>Flying
 This creature can&apos;t block.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/263.png" num="2">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/263.png" num="4">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4838,7 +4830,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Nopon XNB</name>
 			<text></text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/264.png" num="4">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/264.png" num="6">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4856,7 +4848,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Food XNB</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/265.png" num="9">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/265.png" num="11">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4871,7 +4863,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Telethia XNB</name>
 			<text>As long as this creature is untapped, it has hexproof</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/266.png" num="7">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/266.png" num="9">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4889,7 +4881,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Treasure XNB</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/267.png" num="10">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/267.png" num="12">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4904,7 +4896,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Spider XNB</name>
 			<text>Reach</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/268.png" num="5">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/268.png" num="7">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4923,7 +4915,7 @@ This creature can&apos;t block.</text>
 			<name>Gramps, Titan Mentor (Token) XNB</name>
 			<text>Flying, trample
 When Gramps enters, you may mill X cards where X is his power. Then return a card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/269.png" num="6">XNB</set>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/269.png" num="8">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5036,7 +5028,7 @@ At the beginning of your upkeep, you may transform Mio&apos;s Ouroboros.
 		<card>
 			<name>Lost Numbers Scout</name>
 			<text>Whenever a land you control is put into a graveyard from the battlefield, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
-{3}, {T}, Sacrifice an artifact or land: Draw a card.</text>
+{2}, {T}, Sacrifice an artifact or land: Draw a card.</text>
 			<set rarity="uncommon" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/274.png" num="124">XNB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5055,11 +5047,11 @@ At the beginning of your upkeep, you may transform Mio&apos;s Ouroboros.
 			<name>Off-Seer Flutes</name>
 			<text>{T}: Add two mana of different colors.
 {3}, {T}, Exile a creature card from your graveyard: Return target card with Fusion Art from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/275.png" num="239">XNB</set>
+			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/275.png" num="239">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Artifact</type>
+				<type>Artifact</type>
 				<maintype>Artifact</maintype>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
@@ -5069,12 +5061,12 @@ At the beginning of your upkeep, you may transform Mio&apos;s Ouroboros.
 		<card>
 			<name>Aion, Ultimate Artifice</name>
 			<text>Whenever Aion deals combat damage to a player, destroy all permanents other than Aion.
-Crew 7 (Tap any number of creatures you control with total power 7 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="rare" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/276.png" num="225">XNB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact — Vehicle</type>
+				<type>Legendary Artifact — Vehicle</type>
 				<maintype>Artifact</maintype>
 				<manacost>7</manacost>
 				<cmc>7</cmc>
@@ -5173,6 +5165,51 @@ At the beginning of your upkeep, you may transform Lanz&apos;s Ouroboros.
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Sena&apos;s Ouroboros</related>
+		</card>
+		<card>
+			<name>Draft Archetypes XNB</name>
+			<text>{W}{U}[b]:[/b] [b]Blades[/b] Use the unique bond ability of Blades to empower other creatures.[b]
+{U}{B}: Mechon Mill[/b] Drain your opponent of resources using powerful artifacts.[b]
+{B}{R}: Vehicles[/b] Suit up Skells and Levnises to take down tyrant level threats.[b]
+{R}{G}: Ramp[/b] Generate mana to deploy powerful threats and awaken your lands.[b]
+{G}{W}: Nopon[/b] Go wide with a Nopon fighting squad.[b]
+{W}{B}: Life Control[/b] Use your life as a resource to gain an advantage.[b]
+{U}{R}: Tap Overdrive[/b] Gain buffs when your creatures become tapped.[b]
+{B}{G}: Bionis Sacrifice[/b] Sacrifice creatures to build up to world shattering effects.[b]
+{R}{W}: Chain Attack[/b] Create a powerful team of three, then attack![b]
+{G}{U}: Ether[/b] Utilize Ether tokens to make the most of powerful tap abilities.</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/279.png" num="2">XNB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Set Mechanics XNB</name>
+			<text>[b]Awaken N[/b] (When this permanent enters, if you cast it for its awaken cost, put N +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It&apos;s still a land.)
+[b]Bond [/b]({T}: Until end of turn, target nonbonded creature adds this creature&apos;s base power and toughness, gains the following ability, and is bonded. Bond only once each turn as a sorcery.)
+[b]Chain Attack [/b](Whenever you attack, if you control three or more tapped creatures, ...)[b]
+Crew N [/b](Tap any number of creatures you control with total power N or less: This Vehicle becomes an artifact creature until end of turn.)[b]
+Ether token [/b](It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.&quot;)
+[b]Fusion Art[/b] (Adds an additional effect if you paid the cost with a certain color of mana.)</text>
+			<set rarity="common" picurl="https://AidenCvengros.github.io/sets/XNB-files/img/280.png" num="3">XNB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
